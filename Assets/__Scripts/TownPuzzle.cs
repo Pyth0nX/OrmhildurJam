@@ -3,11 +3,10 @@ using TMPro;
 
 public class TownSeagull : MonoBehaviour
 {
-    [SerializeField]
-    private string tagToDisappear = "Seagull";
+    public string tagToDisappear = "Seagull"; 
     public int SeagullCount = 6;
     public int disappearCount = 0;
-    public TextMeshProUGUI countText; // Reference to the Text component
+    public TextMeshProUGUI countText;
 
     void OnMouseDown()
     {
@@ -30,10 +29,5 @@ public class TownSeagull : MonoBehaviour
     void Start()
     {
         UpdateCountText();
-    }
-
-    void Update()
-    {
-
     }
 }
