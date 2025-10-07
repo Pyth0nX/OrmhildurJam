@@ -5,7 +5,7 @@ public class Interactable : MonoBehaviour, IInteractable
 
     [SerializeField] private InteractionType interactionType;
 
-    private InteractAction action;
+    private InteractAction action = new PickupAction();
     
     public void Interact()
     {
@@ -13,4 +13,11 @@ public class Interactable : MonoBehaviour, IInteractable
     }
 
     public InteractionType InteractionType { get => interactionType; }
+
+    private void OnMouseDown()
+    {
+        if (interactionType != InteractionType.Clicked) return;
+        Interact();
+        Debug.Log("Clicked Interactable");
+    }
 }
