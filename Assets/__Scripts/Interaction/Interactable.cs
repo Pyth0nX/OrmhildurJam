@@ -2,14 +2,16 @@ using UnityEngine;
 
 public class Interactable : MonoBehaviour, IInteractable
 {
-
     [SerializeField] private InteractionType _interactionType;
 
     private InteractAction _action = new PickupAction();
     
-    public void Interact()
+    private object _interactingActor;
+    
+    public void Interact(object interactingActor)
     {
-        _action.PerformAction(this);
+        _interactingActor = interactingActor;
+        _action.PerformAction(this, _interactingActor);
     }
 
     public InteractionType InteractionType { get => _interactionType; }
@@ -17,7 +19,7 @@ public class Interactable : MonoBehaviour, IInteractable
     private void OnMouseDown()
     {
         if (_interactionType != InteractionType.Clicked) return;
-        Interact();
+        Interact(_interactingActor);
         Debug.Log("Clicked Interactable");
     }
 }
