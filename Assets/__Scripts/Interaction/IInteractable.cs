@@ -3,6 +3,6 @@ public enum InteractionType { Active, Passive, Clicked }
 
 public interface IInteractable
 {
-    void Interact();
+    void Interact(object interactingActor);
     InteractionType InteractionType { get; }
 }
