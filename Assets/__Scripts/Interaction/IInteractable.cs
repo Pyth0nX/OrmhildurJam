@@ -1,5 +1,5 @@
 [System.Serializable] 
-public enum InteractionType { Active, Passive }
+public enum InteractionType { Active, Passive, Clicked }
 
 public interface IInteractable
 {

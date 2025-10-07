@@ -6,33 +6,33 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private float speed = 5f;
     
-    private CharacterController playerController;
-    private Vector2 movementVector;
-    private Vector2 inputVector;
+    private CharacterController _playerController;
+    private Vector2 _movementVector;
+    private Vector2 _inputVector;
     
     // interacting
-    private IInteractable interactable;
+    private IInteractable _interactable;
     
     private void Start()
     {
-        playerController = GetComponent<CharacterController>();
+        _playerController = GetComponent<CharacterController>();
     }
 
     private void Update()
     {
-        movementVector = inputVector * (speed * Time.deltaTime);
-        playerController.Move(movementVector);
+        _movementVector = _inputVector * (speed * Time.deltaTime);
+        _playerController.Move(_movementVector);
     }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
         var interactedObject = other.gameObject;
         if (interactedObject == null) return;
-        interactedObject.TryGetComponent<IInteractable>(out interactable);
-        if (interactable.InteractionType == InteractionType.Passive) 
+        interactedObject.TryGetComponent<IInteractable>(out _interactable);
+        if (_interactable.InteractionType == InteractionType.Passive) 
         {
-            interactable.Interact();
-            interactable = null;
+            _interactable.Interact();
+            _interactable = null;
         }
         Debug.Log($"Found interactable: {interactedObject}");
     }
@@ -40,21 +40,21 @@ public class PlayerController : MonoBehaviour
     private void OnTriggerExit2D(Collider2D other)
     {
         // reset interactable
-        interactable = null;
+        _interactable = null;
     }
 
     public void Move(InputAction.CallbackContext input)
     {
-        inputVector = input.ReadValue<Vector2>();
+        _inputVector = input.ReadValue<Vector2>();
     }
 
     public void Interact(InputAction.CallbackContext input)
     {
         if (input.started)
         {
-            Debug.Log($"Player Interacted with {interactable}");
-            if (interactable == null) return;
-            interactable.Interact();
+            Debug.Log($"Player Interacted with {_interactable}");
+            if (_interactable == null) return;
+            _interactable.Interact();
         }
     }
 }
