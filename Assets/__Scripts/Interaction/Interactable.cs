@@ -3,20 +3,20 @@ using UnityEngine;
 public class Interactable : MonoBehaviour, IInteractable
 {
 
-    [SerializeField] private InteractionType interactionType;
+    [SerializeField] private InteractionType _interactionType;
 
-    private InteractAction action = new PickupAction();
+    private InteractAction _action = new PickupAction();
     
     public void Interact()
     {
-        action.PerformAction(this);
+        _action.PerformAction(this);
     }
 
-    public InteractionType InteractionType { get => interactionType; }
+    public InteractionType InteractionType { get => _interactionType; }
 
     private void OnMouseDown()
     {
-        if (interactionType != InteractionType.Clicked) return;
+        if (_interactionType != InteractionType.Clicked) return;
         Interact();
         Debug.Log("Clicked Interactable");
     }
