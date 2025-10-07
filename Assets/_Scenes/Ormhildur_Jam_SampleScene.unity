@@ -1140,9 +1140,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tagToDisappear: Seagull
-  SeagullCount: 6
-  disappearCount: 0
-  countText: {fileID: 178303197}
+  referenceText: {fileID: 178303197}
 --- !u!1 &612495507
 GameObject:
   m_ObjectHideFlags: 0
@@ -1698,9 +1696,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tagToDisappear: Seagull
-  SeagullCount: 6
-  disappearCount: 0
-  countText: {fileID: 178303197}
+  referenceText: {fileID: 178303197}
 --- !u!1 &1061433903
 GameObject:
   m_ObjectHideFlags: 0
@@ -1849,9 +1845,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tagToDisappear: Seagull
-  SeagullCount: 6
-  disappearCount: 0
-  countText: {fileID: 178303197}
+  referenceText: {fileID: 178303197}
 --- !u!1 &1082278689
 GameObject:
   m_ObjectHideFlags: 0
@@ -2000,9 +1994,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tagToDisappear: Seagull
-  SeagullCount: 6
-  disappearCount: 0
-  countText: {fileID: 178303197}
+  referenceText: {fileID: 178303197}
 --- !u!1 &1448547345
 GameObject:
   m_ObjectHideFlags: 0
@@ -2105,9 +2097,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tagToDisappear: Seagull
-  SeagullCount: 6
-  disappearCount: 0
-  countText: {fileID: 178303197}
+  referenceText: {fileID: 178303197}
 --- !u!61 &1448547349
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -2611,9 +2601,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tagToDisappear: Seagull
-  SeagullCount: 6
-  disappearCount: 0
-  countText: {fileID: 178303197}
+  referenceText: {fileID: 178303197}
 --- !u!1 &1883406993 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 2732845301484929597, guid: 69921b2089ff61849b19dc9bd9882a78, type: 3}
@@ -2683,9 +2671,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tagToDisappear: Seagull
-  SeagullCount: 6
-  disappearCount: 0
-  countText: {fileID: 178303197}
+  referenceText: {fileID: 178303197}
 --- !u!1 &1990185618
 GameObject:
   m_ObjectHideFlags: 0
