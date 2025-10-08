@@ -3,7 +3,8 @@ using TMPro;
 
 public class TownSeagull : MonoBehaviour
 {
-    public string tagToDisappear = "Seagull";
+    public string chaseAway = "Seagull";
+    public string blockedKitten = "tagToDisappear";
 
     public static int SeagullCount = 6;
     public static int disappearCount = 0;
@@ -24,7 +25,7 @@ public class TownSeagull : MonoBehaviour
 
     void OnMouseDown()
     {
-        if (gameObject.CompareTag(tagToDisappear))
+        if (gameObject.CompareTag(chaseAway))
         {
             disappearCount++;
             UpdateCountText();
@@ -37,6 +38,18 @@ public class TownSeagull : MonoBehaviour
         if (countText != null)
         {
             countText.text = $"Seagulls left: {SeagullCount - disappearCount}";
+        }
+    }
+    // if touched all seagulls, remove kitten with tag "tagToDisappear"
+    void Update()
+    {
+        if (disappearCount >= SeagullCount)
+        {
+            GameObject kitten = GameObject.FindGameObjectWithTag(blockedKitten);
+            if (kitten != null)
+            {
+                Destroy(kitten);
+            }
         }
     }
 }
