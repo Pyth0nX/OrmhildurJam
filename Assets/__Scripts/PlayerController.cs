@@ -9,7 +9,9 @@ public class PlayerController : MonoBehaviour
     
     private Rigidbody2D _rb;
     private Vector2 _movementVector;
-    private Vector2 _inputVector;
+    [SerializeField] private Vector2 _inputVector;
+    [SerializeField] private Animator _animator;
+    [SerializeField] private PlayerState _owningPlayer;
     
     // interacting
     private IInteractable _interactable;
@@ -17,6 +19,8 @@ public class PlayerController : MonoBehaviour
     private void Start()
     {
         _rb = GetComponent<Rigidbody2D>();
+        _owningPlayer = GetComponent<PlayerState>();
+        _animator = GetComponentInChildren<Animator>();
     }
 
     private void Update()
@@ -26,7 +30,7 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        _rb.linearVelocity += (_inputVector * speed).normalized;
+        _rb.linearVelocity = _inputVector * speed;
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -36,9 +40,9 @@ public class PlayerController : MonoBehaviour
         
         interactedObject.TryGetComponent<IInteractable>(out _interactable);
         
-        if (_interactable.InteractionType == InteractionType.Passive) 
+        if (_interactable.InteractionType == InteractionType.Passive)
         {
-            _interactable.Interact(this);
+            _interactable.Interact(_owningPlayer);
             _interactable = null;
         }
         Debug.Log($"Found interactable: {interactedObject}");
@@ -53,6 +57,9 @@ public class PlayerController : MonoBehaviour
     public void Move(InputAction.CallbackContext input)
     {
         _inputVector = input.ReadValue<Vector2>();
+        Debug.Log($"Moving with {_inputVector}");
+        _animator.SetFloat("HorizontalInput", _inputVector.x);
+        _animator.SetFloat("VerticalInput", _inputVector.y);
     }
 
     public void Interact(InputAction.CallbackContext input)
@@ -61,7 +68,7 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log($"Player Interacted with {_interactable}");
             if (_interactable == null) return;
-            _interactable.Interact(this);
+            _interactable.Interact(_owningPlayer);
         }
     }
     
@@ -69,9 +76,7 @@ public class PlayerController : MonoBehaviour
     {
         if (input.started)
         {
-            Debug.Log($"Player Interacted with {_interactable}");
-            if (_interactable == null) return;
-            _interactable.Interact(this);
+            Debug.Log($"Player Jumped");
         }
     }
 }

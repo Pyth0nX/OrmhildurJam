@@ -7,12 +7,10 @@ public class Interactable : MonoBehaviour, IInteractable
 
     [SerializeReference, SR] private InteractAction _action;
     
-    private object _interactingActor;
-    
-    public void Interact(object interactingActor)
+    public void Interact(PlayerState interactingPlayer)
     {
-        _interactingActor = interactingActor;
-        _action.PerformAction(this, _interactingActor);
+        if (interactingPlayer == null) return; 
+        _action.PerformAction(this, interactingPlayer);
     }
 
     public InteractionType InteractionType { get => _interactionType; }
@@ -20,7 +18,7 @@ public class Interactable : MonoBehaviour, IInteractable
     private void OnMouseDown()
     {
         if (_interactionType != InteractionType.Clicked) return;
-        Interact(_interactingActor);
+        Interact(GameManager.Instance.player);
         Debug.Log("Clicked Interactable");
     }
 }

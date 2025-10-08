@@ -3,20 +3,17 @@ using UnityEngine;
 
 public interface InteractAction 
 {
-    bool PerformAction(object obj, object interactingActor);
+    bool PerformAction(Interactable interactable, PlayerState interactingPlayer);
 }
 
 [Serializable]
 public class PickupAction : InteractAction
 {
-    public bool PerformAction(object obj, object interacter)
+    public bool PerformAction(Interactable interactable, PlayerState interactingPlayer)
     {
-        if (obj is Interactable interactableObj && interacter is PlayerController interactorPlayer)
+        if (interactable != null)
         {
-            interactableObj.gameObject.SetActive(false);
-            // interact with player here
-            //var playerState = interactorPlayer.GetComponent<PlayerState>();
-            //playerState
+            interactable.gameObject.SetActive(false);
             return true;
         }
         return false;
@@ -27,15 +24,21 @@ public class PickupAction : InteractAction
 public class MushroomAction : InteractAction
 {
     [SerializeField] private int shroomie;
-    public bool PerformAction(object obj, object interacter)
+    public bool PerformAction(Interactable interactable, PlayerState interactingPlayer)
     {
-        if (obj is Interactable interactableObj && interacter is PlayerController interactorPlayer)
+        Debug.Log("Mushroom action performed");
+        if (interactable != null)
         {
-            interactableObj.gameObject.SetActive(false);
-            // interact with player here
-            var playerState = interactorPlayer.GetComponent<PlayerState>();
-            playerState.IncreaseMushroomCount(shroomie);
+            interactable.gameObject.SetActive(false);
+            
+            if (interactingPlayer == null) return false;
+            interactingPlayer.IncreaseMushroomCount(shroomie);
+            
             return true;
+        }
+        else
+        {
+            Debug.Log("Interactable is not correct: " + (interactable) + ". interacting actor is not correct: " + (interactingPlayer));
         }
         return false;
     }
