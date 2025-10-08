@@ -1,13 +1,8 @@
-using System;
 using System.Collections;
-using System.Threading.Tasks;
-using Unity.Cinemachine;
 using UnityEngine;
 
 public class Teleport : MonoBehaviour
 {
-    [SerializeField]
-    private CinemachineCamera switchedCamera;
     [SerializeField] private GameObject teleportTo;
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -17,7 +12,6 @@ public class Teleport : MonoBehaviour
             other.gameObject.SetActive(false);
             other.transform.position = teleportTo.transform.position;
             other.gameObject.SetActive(true);
-            switchedCamera.Priority = 1;
         }
     }
 
