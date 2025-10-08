@@ -13,7 +13,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D _rb;
     private Vector2 _movementVector;
     private Vector2 _inputVector;
-    private float _sprintBonus;
+    private float _sprintBonus = 1f;
     
     // interacting
     private IInteractable _interactable;
