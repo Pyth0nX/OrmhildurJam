@@ -43,3 +43,17 @@ public class MushroomAction : InteractAction
         return false;
     }
 }
+
+[Serializable]
+public class SlugAction : InteractAction
+{
+    public bool PerformAction(Interactable interactable, PlayerState interactingPlayer)
+    {
+        if (interactable != null)
+        {
+            Debug.Log("Hello human, may I have some mushrooms, I only need 7 of them. Any more or less won't certainly do!");
+            return true;
+        }
+        return false;
+    }
+}
