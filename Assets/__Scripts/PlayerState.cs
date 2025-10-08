@@ -1,16 +1,13 @@
+using System;
 using UnityEngine;
 
 public class PlayerState : MonoBehaviour
 {
     [SerializeField] private int mushrooms;
+    InteractionType _interactionType;
     public int MushroomCount => mushrooms;
-    void Start()
+    public void IncreaseMushroomCount()
     {
-        
-    }
-    
-    void Update()
-    {
-        
+        mushrooms++;
     }
 }
