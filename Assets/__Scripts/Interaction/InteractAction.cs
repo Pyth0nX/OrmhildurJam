@@ -21,9 +21,14 @@ public class PickupAction : InteractAction
 }
 
 [Serializable]
-public class MushroomAction : InteractAction
+public enum IntegerPuzzleTypes { Mushroom, Slug }
+
+[Serializable]
+public class CollectionAction : InteractAction
 {
-    [SerializeField] private int shroomie;
+    [SerializeField] private int amount;
+    [SerializeField] private IntegerPuzzleTypes intType;
+    
     public bool PerformAction(Interactable interactable, PlayerState interactingPlayer)
     {
         Debug.Log("Mushroom action performed");
@@ -32,7 +37,7 @@ public class MushroomAction : InteractAction
             interactable.gameObject.SetActive(false);
             
             if (interactingPlayer == null) return false;
-            interactingPlayer.IncreaseMushroomCount(shroomie);
+            interactingPlayer.IncreaseInteger(amount, intType);
             
             return true;
         }
@@ -45,14 +50,36 @@ public class MushroomAction : InteractAction
 }
 
 [Serializable]
-public class SlugAction : InteractAction
+public class CollectorAction : InteractAction
 {
+    [SerializeField] private int requestedAmount;
+    [SerializeField] private IntegerPuzzleTypes collectType;
+    
     public bool PerformAction(Interactable interactable, PlayerState interactingPlayer)
     {
+        Debug.Log("Mushroom action performed");
         if (interactable != null)
         {
-            Debug.Log("Hello human, may I have some mushrooms, I only need 7 of them. Any more or less won't certainly do!");
+            interactable.gameObject.SetActive(false);
+            
+            if (interactingPlayer == null) return false;
+            var collectedAmount = interactingPlayer.GetIntegerByType(collectType);
+            if (collectedAmount > requestedAmount)
+            {
+                Debug.Log("You collected too much!");
             return true;
+            }
+            if (collectedAmount < requestedAmount)
+            {
+                Debug.Log("This isn't enough! Go back and collect more shroomies!");
+                return true;
+            }
+            Debug.Log("This is enough, thank you!");
+            return true;
+        }
+        else
+        {
+            Debug.Log("Interactable is not correct: " + (interactable) + ". interacting actor is not correct: " + (interactingPlayer));
         }
         return false;
     }
