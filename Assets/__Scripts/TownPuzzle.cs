@@ -25,6 +25,7 @@ public class TownSeagull : MonoBehaviour
 
     void OnMouseDown()
     {
+        //when clicked on seagull, disappear and increase disappearCount
         if (gameObject.CompareTag(chaseAway))
         {
             disappearCount++;
@@ -40,6 +41,7 @@ public class TownSeagull : MonoBehaviour
             countText.text = $"Seagulls left: {SeagullCount - disappearCount}";
         }
     }
+
     // if touched all seagulls, remove kitten with tag "tagToDisappear"
     void Update()
     {
@@ -52,4 +54,5 @@ public class TownSeagull : MonoBehaviour
             }
         }
     }
+
 }
