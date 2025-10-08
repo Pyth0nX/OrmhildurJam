@@ -1,0 +1,2730 @@
+fileFormatVersion: 2
+guid: c1510e67bfb17734fa1c4f9296161b0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5471225553281158212
+    second: Kitty_Walking_Spritesheet_0
+  - first:
+      213: 1613796785051833121
+    second: Kitty_Walking_Spritesheet_1
+  - first:
+      213: 4683697869726197681
+    second: Kitty_Walking_Spritesheet_2
+  - first:
+      213: 320002551446114273
+    second: Kitty_Walking_Spritesheet_3
+  - first:
+      213: 552395916513585799
+    second: Kitty_Walking_Spritesheet_4
+  - first:
+      213: -2616225906691369146
+    second: Kitty_Walking_Spritesheet_5
+  - first:
+      213: 7248932969444096970
+    second: Kitty_Walking_Spritesheet_6
+  - first:
+      213: -1802124358007628238
+    second: Kitty_Walking_Spritesheet_7
+  - first:
+      213: -8649410653875530650
+    second: Kitty_Walking_Spritesheet_8
+  - first:
+      213: -7664711853177926238
+    second: Kitty_Walking_Spritesheet_9
+  - first:
+      213: 2734292409022742688
+    second: Kitty_Walking_Spritesheet_10
+  - first:
+      213: 2599961734028178178
+    second: Kitty_Walking_Spritesheet_11
+  - first:
+      213: -5902989984386675066
+    second: Kitty_Walking_Spritesheet_12
+  - first:
+      213: -7246425173973837856
+    second: Kitty_Walking_Spritesheet_13
+  - first:
+      213: -2637311277367113022
+    second: Kitty_Walking_Spritesheet_14
+  - first:
+      213: 724789566618818178
+    second: Kitty_Walking_Spritesheet_15
+  - first:
+      213: 6271956373005296103
+    second: Kitty_Walking_Spritesheet_16
+  - first:
+      213: 39052041501737075
+    second: Kitty_Walking_Spritesheet_17
+  - first:
+      213: -8587596453093519363
+    second: Kitty_Walking_Spritesheet_18
+  - first:
+      213: -3734950083294317611
+    second: Kitty_Walking_Spritesheet_19
+  - first:
+      213: -1317323146212175272
+    second: Kitty_Walking_Spritesheet_20
+  - first:
+      213: 3166483371336468290
+    second: Kitty_Walking_Spritesheet_21
+  - first:
+      213: 5371940244050781903
+    second: Kitty_Walking_Spritesheet_22
+  - first:
+      213: 731757613204148512
+    second: Kitty_Walking_Spritesheet_23
+  - first:
+      213: -2096530716612150471
+    second: Kitty_Walking_Spritesheet_24
+  - first:
+      213: 1531176283859632592
+    second: Kitty_Walking_Spritesheet_25
+  - first:
+      213: 8268583997305881284
+    second: Kitty_Walking_Spritesheet_26
+  - first:
+      213: 6616475936903884435
+    second: Kitty_Walking_Spritesheet_27
+  - first:
+      213: 666038888964789722
+    second: Kitty_Walking_Spritesheet_28
+  - first:
+      213: -1019000659262295990
+    second: Kitty_Walking_Spritesheet_29
+  - first:
+      213: -8361275452922574625
+    second: Kitty_Walking_Spritesheet_30
+  - first:
+      213: -6729015992750887378
+    second: Kitty_Walking_Spritesheet_31
+  - first:
+      213: 6689080454654886351
+    second: Kitty_Walking_Spritesheet_32
+  - first:
+      213: -6175506112896911962
+    second: Kitty_Walking_Spritesheet_33
+  - first:
+      213: 3736686298495891027
+    second: Kitty_Walking_Spritesheet_34
+  - first:
+      213: 3989803971828226959
+    second: Kitty_Walking_Spritesheet_35
+  - first:
+      213: 2523483006762331367
+    second: Kitty_Walking_Spritesheet_36
+  - first:
+      213: 6876978399755923352
+    second: Kitty_Walking_Spritesheet_37
+  - first:
+      213: 7976564328040034947
+    second: Kitty_Walking_Spritesheet_38
+  - first:
+      213: -648261441168048192
+    second: Kitty_Walking_Spritesheet_39
+  - first:
+      213: 1699088929951051481
+    second: Kitty_Walking_Spritesheet_40
+  - first:
+      213: -4882427726850608597
+    second: Kitty_Walking_Spritesheet_41
+  - first:
+      213: 8936525694410580248
+    second: Kitty_Walking_Spritesheet_42
+  - first:
+      213: -1298435396044883515
+    second: Kitty_Walking_Spritesheet_43
+  - first:
+      213: -7423628193852986414
+    second: Kitty_Walking_Spritesheet_44
+  - first:
+      213: 1965403499758232567
+    second: Kitty_Walking_Spritesheet_45
+  - first:
+      213: 4339594076563516772
+    second: Kitty_Walking_Spritesheet_46
+  - first:
+      213: -1086657367790946680
+    second: Kitty_Walking_Spritesheet_47
+  - first:
+      213: 1473784392990376922
+    second: Kitty_Walking_Spritesheet_48
+  - first:
+      213: -1397901490973028410
+    second: Kitty_Walking_Spritesheet_49
+  - first:
+      213: 7866267552426827118
+    second: Kitty_Walking_Spritesheet_50
+  - first:
+      213: -1832832260848259608
+    second: Kitty_Walking_Spritesheet_51
+  - first:
+      213: -3658357614377622861
+    second: Kitty_Walking_Spritesheet_52
+  - first:
+      213: -9161329405623396198
+    second: Kitty_Walking_Spritesheet_53
+  - first:
+      213: -7722182430762895815
+    second: Kitty_Walking_Spritesheet_54
+  - first:
+      213: -2600045141688794586
+    second: Kitty_Walking_Spritesheet_55
+  - first:
+      213: 1561187530215719165
+    second: Kitty_Walking_Spritesheet_56
+  - first:
+      213: 967747585725029824
+    second: Kitty_Walking_Spritesheet_57
+  - first:
+      213: 7614155191510437241
+    second: Kitty_Walking_Spritesheet_58
+  - first:
+      213: 5466780604128721597
+    second: Kitty_Walking_Spritesheet_59
+  - first:
+      213: 103379452216370431
+    second: Kitty_Walking_Spritesheet_60
+  - first:
+      213: 3934740432716849042
+    second: Kitty_Walking_Spritesheet_61
+  - first:
+      213: -9135331834928528359
+    second: Kitty_Walking_Spritesheet_62
+  - first:
+      213: 7948939113313028245
+    second: Kitty_Walking_Spritesheet_63
+  - first:
+      213: -6775501598233018181
+    second: Kitty_Walking_Spritesheet_64
+  - first:
+      213: 8353458856440113888
+    second: Kitty_Walking_Spritesheet_65
+  - first:
+      213: -4082639497041034992
+    second: Kitty_Walking_Spritesheet_66
+  - first:
+      213: 4304111270955910080
+    second: Kitty_Walking_Spritesheet_67
+  - first:
+      213: 5497827457901683641
+    second: Kitty_Walking_Spritesheet_68
+  - first:
+      213: 4423819818985887669
+    second: Kitty_Walking_Spritesheet_69
+  - first:
+      213: 2145732529802523634
+    second: Kitty_Walking_Spritesheet_70
+  - first:
+      213: -6175514886919783924
+    second: Kitty_Walking_Spritesheet_71
+  - first:
+      213: -5066480832918617459
+    second: Kitty_Walking_Spritesheet_72
+  - first:
+      213: -8193369897306100236
+    second: Kitty_Walking_Spritesheet_73
+  - first:
+      213: 1334555716460128206
+    second: Kitty_Walking_Spritesheet_74
+  - first:
+      213: 7779903907270694205
+    second: Kitty_Walking_Spritesheet_75
+  - first:
+      213: -8018451277623715144
+    second: Kitty_Walking_Spritesheet_76
+  - first:
+      213: 3443570260241500018
+    second: Kitty_Walking_Spritesheet_77
+  - first:
+      213: -1125136169750524447
+    second: Kitty_Walking_Spritesheet_78
+  - first:
+      213: -4071956787743835070
+    second: Kitty_Walking_Spritesheet_79
+  - first:
+      213: -238043121603551109
+    second: Kitty_Walking_Spritesheet_80
+  - first:
+      213: -5170828821719903771
+    second: Kitty_Walking_Spritesheet_81
+  - first:
+      213: -3400513660193961729
+    second: Kitty_Walking_Spritesheet_82
+  - first:
+      213: -8617832618666699603
+    second: Kitty_Walking_Spritesheet_83
+  - first:
+      213: 5909155225070938303
+    second: Kitty_Walking_Spritesheet_84
+  - first:
+      213: 4569887122168589866
+    second: Kitty_Walking_Spritesheet_85
+  - first:
+      213: 8181010296788631297
+    second: Kitty_Walking_Spritesheet_86
+  - first:
+      213: 897347345391651533
+    second: Kitty_Walking_Spritesheet_87
+  - first:
+      213: -1181316442296562264
+    second: Kitty_Walking_Spritesheet_88
+  - first:
+      213: -8492862655470913604
+    second: Kitty_Walking_Spritesheet_89
+  - first:
+      213: -4347880781456745232
+    second: Kitty_Walking_Spritesheet_90
+  - first:
+      213: 3791393012394443537
+    second: Kitty_Walking_Spritesheet_91
+  - first:
+      213: 662212347738598730
+    second: Kitty_Walking_Spritesheet_92
+  - first:
+      213: -4875031382627849154
+    second: Kitty_Walking_Spritesheet_93
+  - first:
+      213: 6314410306768785950
+    second: Kitty_Walking_Spritesheet_94
+  - first:
+      213: -3376969723653056249
+    second: Kitty_Walking_Spritesheet_95
+  - first:
+      213: -100537050057644204
+    second: Kitty_Walking_Spritesheet_96
+  - first:
+      213: -1384021745286639846
+    second: Kitty_Walking_Spritesheet_97
+  - first:
+      213: 3857260010863347189
+    second: Kitty_Walking_Spritesheet_98
+  - first:
+      213: -5215838793340717344
+    second: Kitty_Walking_Spritesheet_99
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 5429
+        width: 601
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44c0d5527a2bdeb40800000000000000
+      internalID: 5471225553281158212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 5429
+        width: 601
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1239ea030ab556610800000000000000
+      internalID: 1613796785051833121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 5429
+        width: 598
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7a840b566dff040800000000000000
+      internalID: 4683697869726197681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 5429
+        width: 598
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ef0a2600a0e07400800000000000000
+      internalID: 320002551446114273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2915
+        y: 5429
+        width: 596
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78a2b2bc8218aa700800000000000000
+      internalID: 552395916513585799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3638
+        y: 5429
+        width: 596
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6479c73366c41bbd0800000000000000
+      internalID: -2616225906691369146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 5429
+        width: 582
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acb35541122699460800000000000000
+      internalID: 7248932969444096970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 5090
+        y: 5429
+        width: 582
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23e50e7c1719df6e0800000000000000
+      internalID: -1802124358007628238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 5429
+        width: 584
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664154b36de17f780800000000000000
+      internalID: -8649410653875530650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 4936
+        width: 584
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8a9dcd2971a590800000000000000
+      internalID: -7664711853177926238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 4936
+        width: 586
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a009d7857822f520800000000000000
+      internalID: 2734292409022742688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 4936
+        width: 586
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 203bb520c6be41420800000000000000
+      internalID: 2599961734028178178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 4936
+        width: 601
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e81f372ed541ea0800000000000000
+      internalID: -5902989984386675066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2927
+        y: 4936
+        width: 601
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e757dd82b68f6b90800000000000000
+      internalID: -7246425173973837856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 4936
+        width: 599
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cac666cd53666bd0800000000000000
+      internalID: -2637311277367113022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 4936
+        width: 599
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286593f4548fe0a00800000000000000
+      internalID: 724789566618818178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 5084
+        y: 4936
+        width: 596
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e16abb47177a0750800000000000000
+      internalID: 6271956373005296103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 5807
+        y: 4936
+        width: 596
+        height: 435
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3700775ff9dba8000800000000000000
+      internalID: 39052041501737075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4443
+        width: 582
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dffc4f2668ab2d880800000000000000
+      internalID: -8587596453093519363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 4443
+        width: 582
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d33d6710baca2cc0800000000000000
+      internalID: -3734950083294317611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1481
+        y: 4443
+        width: 584
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8529f97f39de7bde0800000000000000
+      internalID: -1317323146212175272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 4443
+        width: 584
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24701b779db91fb20800000000000000
+      internalID: 3166483371336468290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 2933
+        y: 4443
+        width: 586
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc6a541b037fc8a40800000000000000
+      internalID: 5371940244050781903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 3656
+        y: 4443
+        width: 586
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02198b41ca9b72a00800000000000000
+      internalID: 731757613204148512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 4373
+        y: 4443
+        width: 601
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b33afcb60a7e2e0800000000000000
+      internalID: -2096530716612150471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 5096
+        y: 4443
+        width: 601
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1c4f7b7b4df3510800000000000000
+      internalID: 1531176283859632592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5819
+        y: 4443
+        width: 601
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c285e23659efb270800000000000000
+      internalID: 8268583997305881284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3950
+        width: 601
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e631c1fc172db50800000000000000
+      internalID: 6616475936903884435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 3950
+        width: 601
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5975737de3e3900800000000000000
+      internalID: 666038888964789722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 3949
+        width: 688
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4038ce9c48cbd1f0800000000000000
+      internalID: -1019000659262295990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 3949
+        width: 688
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd84b578648c6fb80800000000000000
+      internalID: -8361275452922574625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 2907
+        y: 3949
+        width: 692
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e29204b9bbd92a0800000000000000
+      internalID: -6729015992750887378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 3949
+        width: 692
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc186b5bb3364dc50800000000000000
+      internalID: 6689080454654886351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4347
+        y: 3949
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5b688d8e13c4aa0800000000000000
+      internalID: -6175506112896911962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 3949
+        width: 690
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356bae204606bd330800000000000000
+      internalID: 3736686298495891027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 5799
+        y: 3949
+        width: 681
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b9340d291ae5730800000000000000
+      internalID: 3989803971828226959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3456
+        width: 681
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecadc6bc66350320800000000000000
+      internalID: 2523483006762331367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 3456
+        width: 677
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f6c753b6fef6f50800000000000000
+      internalID: 6876978399755923352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 3456
+        width: 677
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 382f0e4aef272be60800000000000000
+      internalID: 7976564328040034947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 3456
+        width: 680
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cf789567a9e007f0800000000000000
+      internalID: -648261441168048192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 3456
+        width: 680
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dee78f2160649710800000000000000
+      internalID: 1699088929951051481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 3456
+        width: 688
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b223d83c9d12e3cb0800000000000000
+      internalID: -4882427726850608597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 4359
+        y: 3456
+        width: 688
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8116e7575cae40c70800000000000000
+      internalID: 8936525694410580248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 5076
+        y: 3456
+        width: 692
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c973fef2e70bfde0800000000000000
+      internalID: -1298435396044883515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 5799
+        y: 3456
+        width: 692
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db61d06d79f9f890800000000000000
+      internalID: -7423628193852986414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 2963
+        width: 690
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f32663e114864b10800000000000000
+      internalID: 1965403499758232567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 2963
+        width: 690
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d25fa02d5593c30800000000000000
+      internalID: 4339594076563516772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 1461
+        y: 2963
+        width: 681
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8867240a1ea6be0f0800000000000000
+      internalID: -1086657367790946680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 2963
+        width: 681
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3c4b3d81fe37410800000000000000
+      internalID: 1473784392990376922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 2913
+        y: 2963
+        width: 678
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf40971008a99ce0800000000000000
+      internalID: -1397901490973028410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 3636
+        y: 2963
+        width: 678
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6d159269a89a2d60800000000000000
+      internalID: 7866267552426827118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 2963
+        width: 680
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed634ff4c87096e0800000000000000
+      internalID: -1832832260848259608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 2963
+        width: 680
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b22dade127ea3dc0800000000000000
+      internalID: -3658357614377622861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 5805
+        y: 2963
+        width: 688
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a981a73c17b6cd080800000000000000
+      internalID: -9161329405623396198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2470
+        width: 688
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9367d9b3efb45d490800000000000000
+      internalID: -7722182430762895815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 2470
+        width: 688
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622c8a128b8caebd0800000000000000
+      internalID: -2600045141688794586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 2470
+        width: 688
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0074689c37aa510800000000000000
+      internalID: 1561187530215719165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 2470
+        width: 688
+        height: 437
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdd1674d412e6d00800000000000000
+      internalID: 967747585725029824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 2472
+        width: 695
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d0dae1ec9eaa960800000000000000
+      internalID: 7614155191510437241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 2472
+        width: 695
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba7616cef7eddb40800000000000000
+      internalID: 5466780604128721597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 2472
+        width: 695
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff46e6660174f6100800000000000000
+      internalID: 103379452216370431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 5080
+        y: 2472
+        width: 695
+        height: 441
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f547f83910b9630800000000000000
+      internalID: 3934740432716849042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 5795
+        y: 2472
+        width: 694
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91484c1e818c83180800000000000000
+      internalID: -9135331834928528359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1979
+        width: 694
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5984b3e120e405e60800000000000000
+      internalID: 7948939113313028245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1979
+        width: 678
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0ca3ec13598f1a0800000000000000
+      internalID: -6775501598233018181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 1979
+        width: 678
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea24f742927de370800000000000000
+      internalID: 8353458856440113888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 1979
+        width: 678
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011c3e8120d8757c0800000000000000
+      internalID: -4082639497041034992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 1979
+        width: 678
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3051395664bbb30800000000000000
+      internalID: 4304111270955910080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 1979
+        width: 680
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b36e98b1f43c4c40800000000000000
+      internalID: 5497827457901683641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 1979
+        width: 680
+        height: 440
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b79cfcdfa0946d30800000000000000
+      internalID: 4423819818985887669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 1979
+        width: 695
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f331e50e5c27cd10800000000000000
+      internalID: 2145732529802523634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 5811
+        y: 1979
+        width: 695
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0a720cfde92c4aa0800000000000000
+      internalID: -6175514886919783924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1486
+        width: 697
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d828f8c968e30b9b0800000000000000
+      internalID: -5066480832918617459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1486
+        width: 697
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fde0bd1d7d4b4e80800000000000000
+      internalID: -8193369897306100236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1486
+        width: 694
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7a2947a5b458210800000000000000
+      internalID: 1334555716460128206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1486
+        width: 694
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d351b8b4265c7fb60800000000000000
+      internalID: 7779903907270694205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 1486
+        width: 678
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ba167ceb0db8b090800000000000000
+      internalID: -8018451277623715144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 1486
+        width: 678
+        height: 446
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2774bc828e40acf20800000000000000
+      internalID: 3443570260241500018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 1486
+        width: 678
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed83166d96b260f0800000000000000
+      internalID: -1125136169750524447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 1486
+        width: 678
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24cb9cd20e08d77c0800000000000000
+      internalID: -4071956787743835070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 5818
+        y: 1486
+        width: 680
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b706897ca0d42bcf0800000000000000
+      internalID: -238043121603551109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_81
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 993
+        width: 680
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1980735968d38b0800000000000000
+      internalID: -5170828821719903771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_82
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 993
+        width: 695
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8864eb7d2fec0d0800000000000000
+      internalID: -3400513660193961729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_83
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 993
+        width: 695
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da4d89e74ee476880800000000000000
+      internalID: -8617832618666699603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_84
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 993
+        width: 695
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb82ff08e59810250800000000000000
+      internalID: 5909155225070938303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_85
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 993
+        width: 695
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ead7410208b6f30800000000000000
+      internalID: 4569887122168589866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_86
+      rect:
+        serializedVersion: 2
+        x: 3642
+        y: 993
+        width: 695
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f36e32589c88170800000000000000
+      internalID: 8181010296788631297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_87
+      rect:
+        serializedVersion: 2
+        x: 4365
+        y: 993
+        width: 695
+        height: 439
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca853208a4047c00800000000000000
+      internalID: 897347345391651533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_88
+      rect:
+        serializedVersion: 2
+        x: 5079
+        y: 992
+        width: 618
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adc59164fe1b9fe0800000000000000
+      internalID: -1181316442296562264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_89
+      rect:
+        serializedVersion: 2
+        x: 5796
+        y: 992
+        width: 615
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7b976796a432a80800000000000000
+      internalID: -8492862655470913604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_90
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 499
+        width: 619
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fcd58f177939a3c0800000000000000
+      internalID: -4347880781456745232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_91
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 499
+        width: 612
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1134bab6bdbbd9430800000000000000
+      internalID: 3791393012394443537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_92
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 499
+        width: 606
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d26d82f96a03900800000000000000
+      internalID: 662212347738598730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_93
+      rect:
+        serializedVersion: 2
+        x: 2193
+        y: 499
+        width: 603
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ce59959c8685cb0800000000000000
+      internalID: -4875031382627849154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_94
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 499
+        width: 618
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e12d40508ba41a750800000000000000
+      internalID: 6314410306768785950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_95
+      rect:
+        serializedVersion: 2
+        x: 3627
+        y: 499
+        width: 615
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7091964ade79221d0800000000000000
+      internalID: -3376969723653056249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_96
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 499
+        width: 619
+        height: 432
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4576c8ce512da9ef0800000000000000
+      internalID: -100537050057644204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_97
+      rect:
+        serializedVersion: 2
+        x: 5073
+        y: 499
+        width: 612
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f06c63e87facce0800000000000000
+      internalID: -1384021745286639846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_98
+      rect:
+        serializedVersion: 2
+        x: 5802
+        y: 499
+        width: 606
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f544d11b8db78530800000000000000
+      internalID: 3857260010863347189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kitty_Walking_Spritesheet_99
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 6
+        width: 603
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6793d804e9d97b0800000000000000
+      internalID: -5215838793340717344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Kitty_Walking_Spritesheet_0: 5471225553281158212
+      Kitty_Walking_Spritesheet_1: 1613796785051833121
+      Kitty_Walking_Spritesheet_10: 2734292409022742688
+      Kitty_Walking_Spritesheet_11: 2599961734028178178
+      Kitty_Walking_Spritesheet_12: -5902989984386675066
+      Kitty_Walking_Spritesheet_13: -7246425173973837856
+      Kitty_Walking_Spritesheet_14: -2637311277367113022
+      Kitty_Walking_Spritesheet_15: 724789566618818178
+      Kitty_Walking_Spritesheet_16: 6271956373005296103
+      Kitty_Walking_Spritesheet_17: 39052041501737075
+      Kitty_Walking_Spritesheet_18: -8587596453093519363
+      Kitty_Walking_Spritesheet_19: -3734950083294317611
+      Kitty_Walking_Spritesheet_2: 4683697869726197681
+      Kitty_Walking_Spritesheet_20: -1317323146212175272
+      Kitty_Walking_Spritesheet_21: 3166483371336468290
+      Kitty_Walking_Spritesheet_22: 5371940244050781903
+      Kitty_Walking_Spritesheet_23: 731757613204148512
+      Kitty_Walking_Spritesheet_24: -2096530716612150471
+      Kitty_Walking_Spritesheet_25: 1531176283859632592
+      Kitty_Walking_Spritesheet_26: 8268583997305881284
+      Kitty_Walking_Spritesheet_27: 6616475936903884435
+      Kitty_Walking_Spritesheet_28: 666038888964789722
+      Kitty_Walking_Spritesheet_29: -1019000659262295990
+      Kitty_Walking_Spritesheet_3: 320002551446114273
+      Kitty_Walking_Spritesheet_30: -8361275452922574625
+      Kitty_Walking_Spritesheet_31: -6729015992750887378
+      Kitty_Walking_Spritesheet_32: 6689080454654886351
+      Kitty_Walking_Spritesheet_33: -6175506112896911962
+      Kitty_Walking_Spritesheet_34: 3736686298495891027
+      Kitty_Walking_Spritesheet_35: 3989803971828226959
+      Kitty_Walking_Spritesheet_36: 2523483006762331367
+      Kitty_Walking_Spritesheet_37: 6876978399755923352
+      Kitty_Walking_Spritesheet_38: 7976564328040034947
+      Kitty_Walking_Spritesheet_39: -648261441168048192
+      Kitty_Walking_Spritesheet_4: 552395916513585799
+      Kitty_Walking_Spritesheet_40: 1699088929951051481
+      Kitty_Walking_Spritesheet_41: -4882427726850608597
+      Kitty_Walking_Spritesheet_42: 8936525694410580248
+      Kitty_Walking_Spritesheet_43: -1298435396044883515
+      Kitty_Walking_Spritesheet_44: -7423628193852986414
+      Kitty_Walking_Spritesheet_45: 1965403499758232567
+      Kitty_Walking_Spritesheet_46: 4339594076563516772
+      Kitty_Walking_Spritesheet_47: -1086657367790946680
+      Kitty_Walking_Spritesheet_48: 1473784392990376922
+      Kitty_Walking_Spritesheet_49: -1397901490973028410
+      Kitty_Walking_Spritesheet_5: -2616225906691369146
+      Kitty_Walking_Spritesheet_50: 7866267552426827118
+      Kitty_Walking_Spritesheet_51: -1832832260848259608
+      Kitty_Walking_Spritesheet_52: -3658357614377622861
+      Kitty_Walking_Spritesheet_53: -9161329405623396198
+      Kitty_Walking_Spritesheet_54: -7722182430762895815
+      Kitty_Walking_Spritesheet_55: -2600045141688794586
+      Kitty_Walking_Spritesheet_56: 1561187530215719165
+      Kitty_Walking_Spritesheet_57: 967747585725029824
+      Kitty_Walking_Spritesheet_58: 7614155191510437241
+      Kitty_Walking_Spritesheet_59: 5466780604128721597
+      Kitty_Walking_Spritesheet_6: 7248932969444096970
+      Kitty_Walking_Spritesheet_60: 103379452216370431
+      Kitty_Walking_Spritesheet_61: 3934740432716849042
+      Kitty_Walking_Spritesheet_62: -9135331834928528359
+      Kitty_Walking_Spritesheet_63: 7948939113313028245
+      Kitty_Walking_Spritesheet_64: -6775501598233018181
+      Kitty_Walking_Spritesheet_65: 8353458856440113888
+      Kitty_Walking_Spritesheet_66: -4082639497041034992
+      Kitty_Walking_Spritesheet_67: 4304111270955910080
+      Kitty_Walking_Spritesheet_68: 5497827457901683641
+      Kitty_Walking_Spritesheet_69: 4423819818985887669
+      Kitty_Walking_Spritesheet_7: -1802124358007628238
+      Kitty_Walking_Spritesheet_70: 2145732529802523634
+      Kitty_Walking_Spritesheet_71: -6175514886919783924
+      Kitty_Walking_Spritesheet_72: -5066480832918617459
+      Kitty_Walking_Spritesheet_73: -8193369897306100236
+      Kitty_Walking_Spritesheet_74: 1334555716460128206
+      Kitty_Walking_Spritesheet_75: 7779903907270694205
+      Kitty_Walking_Spritesheet_76: -8018451277623715144
+      Kitty_Walking_Spritesheet_77: 3443570260241500018
+      Kitty_Walking_Spritesheet_78: -1125136169750524447
+      Kitty_Walking_Spritesheet_79: -4071956787743835070
+      Kitty_Walking_Spritesheet_8: -8649410653875530650
+      Kitty_Walking_Spritesheet_80: -238043121603551109
+      Kitty_Walking_Spritesheet_81: -5170828821719903771
+      Kitty_Walking_Spritesheet_82: -3400513660193961729
+      Kitty_Walking_Spritesheet_83: -8617832618666699603
+      Kitty_Walking_Spritesheet_84: 5909155225070938303
+      Kitty_Walking_Spritesheet_85: 4569887122168589866
+      Kitty_Walking_Spritesheet_86: 8181010296788631297
+      Kitty_Walking_Spritesheet_87: 897347345391651533
+      Kitty_Walking_Spritesheet_88: -1181316442296562264
+      Kitty_Walking_Spritesheet_89: -8492862655470913604
+      Kitty_Walking_Spritesheet_9: -7664711853177926238
+      Kitty_Walking_Spritesheet_90: -4347880781456745232
+      Kitty_Walking_Spritesheet_91: 3791393012394443537
+      Kitty_Walking_Spritesheet_92: 662212347738598730
+      Kitty_Walking_Spritesheet_93: -4875031382627849154
+      Kitty_Walking_Spritesheet_94: 6314410306768785950
+      Kitty_Walking_Spritesheet_95: -3376969723653056249
+      Kitty_Walking_Spritesheet_96: -100537050057644204
+      Kitty_Walking_Spritesheet_97: -1384021745286639846
+      Kitty_Walking_Spritesheet_98: 3857260010863347189
+      Kitty_Walking_Spritesheet_99: -5215838793340717344
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

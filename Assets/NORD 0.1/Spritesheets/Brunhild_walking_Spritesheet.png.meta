@@ -1,0 +1,2236 @@
+fileFormatVersion: 2
+guid: 5b594c8d54c765b49a2dc33f12d1ad31
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7315730464842237571
+    second: Brunhild_walking_Spritesheet_0
+  - first:
+      213: 5037366875760506840
+    second: Brunhild_walking_Spritesheet_1
+  - first:
+      213: 3947061103465175014
+    second: Brunhild_walking_Spritesheet_2
+  - first:
+      213: -8686115518751161647
+    second: Brunhild_walking_Spritesheet_3
+  - first:
+      213: 3761801518945525553
+    second: Brunhild_walking_Spritesheet_4
+  - first:
+      213: -6588094944547152480
+    second: Brunhild_walking_Spritesheet_5
+  - first:
+      213: 1832902430942180541
+    second: Brunhild_walking_Spritesheet_6
+  - first:
+      213: -1062879722277143475
+    second: Brunhild_walking_Spritesheet_7
+  - first:
+      213: -923422747153354901
+    second: Brunhild_walking_Spritesheet_8
+  - first:
+      213: 952941633882864254
+    second: Brunhild_walking_Spritesheet_9
+  - first:
+      213: -7471162964755633637
+    second: Brunhild_walking_Spritesheet_10
+  - first:
+      213: -1883929868426916279
+    second: Brunhild_walking_Spritesheet_11
+  - first:
+      213: 4799864504868766516
+    second: Brunhild_walking_Spritesheet_12
+  - first:
+      213: -7400457856676944383
+    second: Brunhild_walking_Spritesheet_13
+  - first:
+      213: 119840772242866408
+    second: Brunhild_walking_Spritesheet_14
+  - first:
+      213: -4684564311851082431
+    second: Brunhild_walking_Spritesheet_15
+  - first:
+      213: -6365222306918908751
+    second: Brunhild_walking_Spritesheet_16
+  - first:
+      213: 4898544670808926327
+    second: Brunhild_walking_Spritesheet_17
+  - first:
+      213: 4459071316864680036
+    second: Brunhild_walking_Spritesheet_18
+  - first:
+      213: -9210006841778905550
+    second: Brunhild_walking_Spritesheet_19
+  - first:
+      213: -7673721393436140239
+    second: Brunhild_walking_Spritesheet_20
+  - first:
+      213: -1382692783295119089
+    second: Brunhild_walking_Spritesheet_21
+  - first:
+      213: -7534148402291757712
+    second: Brunhild_walking_Spritesheet_22
+  - first:
+      213: -4384214143200008978
+    second: Brunhild_walking_Spritesheet_23
+  - first:
+      213: 2598924253919561998
+    second: Brunhild_walking_Spritesheet_24
+  - first:
+      213: 8450024211762142184
+    second: Brunhild_walking_Spritesheet_25
+  - first:
+      213: 8825593921354002000
+    second: Brunhild_walking_Spritesheet_26
+  - first:
+      213: -2934035199400571344
+    second: Brunhild_walking_Spritesheet_27
+  - first:
+      213: 3054664751886487366
+    second: Brunhild_walking_Spritesheet_28
+  - first:
+      213: -4277727288907583828
+    second: Brunhild_walking_Spritesheet_29
+  - first:
+      213: -1360909657901550129
+    second: Brunhild_walking_Spritesheet_30
+  - first:
+      213: 313226652441272210
+    second: Brunhild_walking_Spritesheet_31
+  - first:
+      213: 8182814878965249829
+    second: Brunhild_walking_Spritesheet_32
+  - first:
+      213: 4568506228593315217
+    second: Brunhild_walking_Spritesheet_33
+  - first:
+      213: 2049251956670952032
+    second: Brunhild_walking_Spritesheet_34
+  - first:
+      213: -1127071666762611452
+    second: Brunhild_walking_Spritesheet_35
+  - first:
+      213: -2486693186721209966
+    second: Brunhild_walking_Spritesheet_36
+  - first:
+      213: 493812245888812516
+    second: Brunhild_walking_Spritesheet_37
+  - first:
+      213: 1051805749118089752
+    second: Brunhild_walking_Spritesheet_38
+  - first:
+      213: -5513237829165328691
+    second: Brunhild_walking_Spritesheet_39
+  - first:
+      213: -9125180821871995290
+    second: Brunhild_walking_Spritesheet_40
+  - first:
+      213: 1394113435483897011
+    second: Brunhild_walking_Spritesheet_41
+  - first:
+      213: -8925775887106348670
+    second: Brunhild_walking_Spritesheet_42
+  - first:
+      213: -2820288100136174413
+    second: Brunhild_walking_Spritesheet_43
+  - first:
+      213: 1135227857989645707
+    second: Brunhild_walking_Spritesheet_44
+  - first:
+      213: -7208178347991800978
+    second: Brunhild_walking_Spritesheet_45
+  - first:
+      213: -2686660583559331355
+    second: Brunhild_walking_Spritesheet_46
+  - first:
+      213: 3090823981249667885
+    second: Brunhild_walking_Spritesheet_47
+  - first:
+      213: 5140286861185685835
+    second: Brunhild_walking_Spritesheet_48
+  - first:
+      213: 8065582877494421144
+    second: Brunhild_walking_Spritesheet_49
+  - first:
+      213: -115095009725682015
+    second: Brunhild_walking_Spritesheet_50
+  - first:
+      213: 7444943575450351882
+    second: Brunhild_walking_Spritesheet_51
+  - first:
+      213: 5543860676210906148
+    second: Brunhild_walking_Spritesheet_52
+  - first:
+      213: -5999461255785388981
+    second: Brunhild_walking_Spritesheet_53
+  - first:
+      213: -7004747594913401477
+    second: Brunhild_walking_Spritesheet_54
+  - first:
+      213: 6778518692650627835
+    second: Brunhild_walking_Spritesheet_55
+  - first:
+      213: 4107254645743290184
+    second: Brunhild_walking_Spritesheet_56
+  - first:
+      213: -2753185840690793855
+    second: Brunhild_walking_Spritesheet_57
+  - first:
+      213: 8141343012213466419
+    second: Brunhild_walking_Spritesheet_58
+  - first:
+      213: -5407138333424835796
+    second: Brunhild_walking_Spritesheet_59
+  - first:
+      213: -7946813205186368940
+    second: Brunhild_walking_Spritesheet_60
+  - first:
+      213: 1936161788651958529
+    second: Brunhild_walking_Spritesheet_61
+  - first:
+      213: -1046027619113495118
+    second: Brunhild_walking_Spritesheet_62
+  - first:
+      213: -4537685036902938689
+    second: Brunhild_walking_Spritesheet_63
+  - first:
+      213: -5474892484083543546
+    second: Brunhild_walking_Spritesheet_64
+  - first:
+      213: -5916232428981392004
+    second: Brunhild_walking_Spritesheet_65
+  - first:
+      213: 2104147539995303308
+    second: Brunhild_walking_Spritesheet_66
+  - first:
+      213: 7144777756153786248
+    second: Brunhild_walking_Spritesheet_67
+  - first:
+      213: 6670446704814455622
+    second: Brunhild_walking_Spritesheet_68
+  - first:
+      213: -5033547583157161857
+    second: Brunhild_walking_Spritesheet_69
+  - first:
+      213: -7763980388545702989
+    second: Brunhild_walking_Spritesheet_70
+  - first:
+      213: -3299569891494025464
+    second: Brunhild_walking_Spritesheet_71
+  - first:
+      213: 3615669944752127914
+    second: Brunhild_walking_Spritesheet_72
+  - first:
+      213: -6189672995400210720
+    second: Brunhild_walking_Spritesheet_73
+  - first:
+      213: -5824256242185062050
+    second: Brunhild_walking_Spritesheet_74
+  - first:
+      213: -370791199614083105
+    second: Brunhild_walking_Spritesheet_75
+  - first:
+      213: 426461014760189027
+    second: Brunhild_walking_Spritesheet_76
+  - first:
+      213: 3334580059124020075
+    second: Brunhild_walking_Spritesheet_77
+  - first:
+      213: -2590166493776897405
+    second: Brunhild_walking_Spritesheet_78
+  - first:
+      213: 8132887549121628531
+    second: Brunhild_walking_Spritesheet_79
+  - first:
+      213: -4736595497796880291
+    second: Brunhild_walking_Spritesheet_80
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 6479
+        width: 359
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d79339217ed497a90800000000000000
+      internalID: -7315730464842237571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 6479
+        width: 376
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d736010c7258e540800000000000000
+      internalID: 5037366875760506840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 6479
+        width: 401
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e79dc24927c6c630800000000000000
+      internalID: 3947061103465175014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 6488
+        width: 405
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d244dae4f7b47780800000000000000
+      internalID: -8686115518751161647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 6498
+        width: 398
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13fd544fc8a943430800000000000000
+      internalID: 3761801518945525553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 3137
+        y: 6506
+        width: 370
+        height: 1031
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ad58bb9d826294a0800000000000000
+      internalID: -6588094944547152480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 6479
+        width: 369
+        height: 1055
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db43240cc07cf6910800000000000000
+      internalID: 1832902430942180541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 6479
+        width: 379
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c74b22684ef31f0800000000000000
+      internalID: -1062879722277143475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 4945
+        y: 6479
+        width: 399
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6fa86a67e75f23f0800000000000000
+      internalID: -923422747153354901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 5541
+        y: 6479
+        width: 401
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ab44bfd57893d00800000000000000
+      internalID: 952941633882864254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 6141
+        y: 6479
+        width: 403
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aafa21ed8115890800000000000000
+      internalID: -7471162964755633637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 6767
+        y: 6479
+        width: 377
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e4aa224cfead5e0800000000000000
+      internalID: -1883929868426916279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 7381
+        y: 6479
+        width: 359
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43385be165b8c9240800000000000000
+      internalID: 4799864504868766516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 5399
+        width: 359
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106a585e9ca4c4990800000000000000
+      internalID: -7400457856676944383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 5399
+        width: 508
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e005232c82c9a100800000000000000
+      internalID: 119840772242866408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 5399
+        width: 499
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14dd4a804951dfeb0800000000000000
+      internalID: -4684564311851082431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 5399
+        width: 446
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcb4b749003aa7a0800000000000000
+      internalID: -6365222306918908751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 2522
+        y: 5399
+        width: 392
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778e2fbac602bf340800000000000000
+      internalID: 4898544670808926327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 3116
+        y: 5399
+        width: 420
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4604addccbdc1ed30800000000000000
+      internalID: 4459071316864680036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 5399
+        width: 454
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23ed9d8f29b7f2080800000000000000
+      internalID: -9210006841778905550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 4269
+        y: 5399
+        width: 512
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d5ceebc07718590800000000000000
+      internalID: -7673721393436140239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 4856
+        y: 5399
+        width: 512
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f01c23a4d30bfcce0800000000000000
+      internalID: -1382692783295119089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 5485
+        y: 5399
+        width: 471
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07da25c12f3517790800000000000000
+      internalID: -7534148402291757712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 6114
+        y: 5399
+        width: 430
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4e15f17742823c0800000000000000
+      internalID: -4384214143200008978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 6746
+        y: 5399
+        width: 420
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e09c509d6db311420800000000000000
+      internalID: 2598924253919561998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 7334
+        y: 5399
+        width: 468
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb588d1044844570800000000000000
+      internalID: 8450024211762142184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 4319
+        width: 508
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ee62659eeca7a70800000000000000
+      internalID: 8825593921354002000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 4319
+        width: 508
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03e8c3508863847d0800000000000000
+      internalID: -2934035199400571344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 4319
+        width: 464
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64fc9145869546a20800000000000000
+      internalID: 3054664751886487366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 4319
+        width: 466
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae2ba2f1b572a4c0800000000000000
+      internalID: -4277727288907583828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 4319
+        width: 449
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5316560e31d1de0800000000000000
+      internalID: -1360909657901550129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 4319
+        width: 395
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f52f81bfdc85400800000000000000
+      internalID: 313226652441272210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 3725
+        y: 4319
+        width: 412
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527318b27c23f8170800000000000000
+      internalID: 8182814878965249829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 4319
+        width: 453
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dc67db538966f30800000000000000
+      internalID: 4568506228593315217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 4893
+        y: 4319
+        width: 521
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06275a41cc7607c10800000000000000
+      internalID: 2049251956670952032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 5489
+        y: 4319
+        width: 478
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40505326a46db50f0800000000000000
+      internalID: -1127071666762611452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 6090
+        y: 4319
+        width: 467
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2912914c8bd7d7dd0800000000000000
+      internalID: -2486693186721209966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 6724
+        y: 4319
+        width: 425
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5c0fd0f9f5ad600800000000000000
+      internalID: 493812245888812516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 7355
+        y: 4319
+        width: 412
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ab5e091c3c89e00800000000000000
+      internalID: 1051805749118089752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3239
+        width: 438
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc6da5e976b0d73b0800000000000000
+      internalID: -5513237829165328691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 3266
+        width: 549
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666dc19c368dc5180800000000000000
+      internalID: -9125180821871995290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 3262
+        width: 479
+        height: 1037
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bcfd9288c2e85310800000000000000
+      internalID: 1394113435483897011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 3265
+        width: 398
+        height: 1048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28967481f16412480800000000000000
+      internalID: -8925775887106348670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 2517
+        y: 3266
+        width: 334
+        height: 1046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc3f1b5ae25cd8d0800000000000000
+      internalID: -2820288100136174413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 3179
+        y: 3263
+        width: 301
+        height: 1043
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85b99ed8b321cf00800000000000000
+      internalID: 1135227857989645707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 3263
+        width: 466
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63694aabf767fb90800000000000000
+      internalID: -7208178347991800978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 3266
+        width: 507
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e107ec0f6017bad0800000000000000
+      internalID: -2686660583559331355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 4909
+        y: 3266
+        width: 507
+        height: 1027
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2325a9f800d4ea20800000000000000
+      internalID: 3090823981249667885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 5488
+        y: 3265
+        width: 470
+        height: 1034
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4994947aa7f55740800000000000000
+      internalID: 5140286861185685835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 6118
+        y: 3264
+        width: 394
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896278fc4e4beef60800000000000000
+      internalID: 8065582877494421144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 6755
+        y: 3270
+        width: 339
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ae61edc2b9176ef0800000000000000
+      internalID: -115095009725682015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 7415
+        y: 3264
+        width: 277
+        height: 1042
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a097b83acb0c15760800000000000000
+      internalID: 7444943575450351882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 2186
+        width: 467
+        height: 1033
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 424dec199efbfec40800000000000000
+      internalID: 5543860676210906148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2159
+        width: 597
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44613d36c1adbca0800000000000000
+      internalID: -5999461255785388981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 2159
+        width: 597
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b753ae7dc232ace90800000000000000
+      internalID: -7004747594913401477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 2159
+        width: 527
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf239ca36d2221e50800000000000000
+      internalID: 6778518692650627835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 2448
+        y: 2159
+        width: 506
+        height: 1073
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8470a91d656eff830800000000000000
+      internalID: 4107254645743290184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 2159
+        width: 478
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1827dfc9018bac9d0800000000000000
+      internalID: -2753185840690793855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 2159
+        width: 458
+        height: 1074
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335a79db55cdbf070800000000000000
+      internalID: 8141343012213466419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 4301
+        y: 2159
+        width: 490
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c23a0d0855cf5f4b0800000000000000
+      internalID: -5407138333424835796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 2159
+        width: 530
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aab707e7f37b190800000000000000
+      internalID: -7946813205186368940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 2159
+        width: 515
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 101f84873e0aeda10800000000000000
+      internalID: 1936161788651958529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 6137
+        y: 2159
+        width: 491
+        height: 1073
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b51e792c63cb71f0800000000000000
+      internalID: -1046027619113495118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 6763
+        y: 2159
+        width: 459
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb78bc82087e601c0800000000000000
+      internalID: -4537685036902938689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 7333
+        y: 2159
+        width: 482
+        height: 1075
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6029ebefa464504b0800000000000000
+      internalID: -5474892484083543546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1079
+        width: 527
+        height: 1064
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7deaed83f155eda0800000000000000
+      internalID: -5916232428981392004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1079
+        width: 597
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d9e641a0f633d10800000000000000
+      internalID: 2104147539995303308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 1079
+        width: 396
+        height: 1057
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88fa8aab389572360800000000000000
+      internalID: 7144777756153786248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 1079
+        width: 396
+        height: 1057
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bf3adbfef229c50800000000000000
+      internalID: 6670446704814455622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 2523
+        y: 1079
+        width: 394
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7034e9542f352ab0800000000000000
+      internalID: -5033547583157161857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 1079
+        width: 401
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b352a1d8fcc04490800000000000000
+      internalID: -7763980388545702989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 1079
+        width: 413
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807ace16aa29532d0800000000000000
+      internalID: -3299569891494025464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 4327
+        y: 1079
+        width: 416
+        height: 1072
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb10a78a07d2230800000000000000
+      internalID: 3615669944752127914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 4937
+        y: 1079
+        width: 409
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6a759743dd91aa0800000000000000
+      internalID: -6189672995400210720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 5546
+        y: 1079
+        width: 400
+        height: 1058
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5935b35ec51c2fa0800000000000000
+      internalID: -5824256242185062050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 6148
+        y: 1079
+        width: 397
+        height: 1062
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf59255e5faadaf0800000000000000
+      internalID: -370791199614083105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 6748
+        y: 1079
+        width: 400
+        height: 1073
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c655f88081be500800000000000000
+      internalID: 426461014760189027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_77
+      rect:
+        serializedVersion: 2
+        x: 7348
+        y: 1079
+        width: 407
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b63303b75eec64e20800000000000000
+      internalID: 3334580059124020075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_78
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 414
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a1f451c41ed0cd0800000000000000
+      internalID: -2590166493776897405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_79
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 0
+        width: 410
+        height: 1060
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3798793d222ddd070800000000000000
+      internalID: 8132887549121628531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Brunhild_walking_Spritesheet_80
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 0
+        width: 396
+        height: 1056
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d583a158d7b344eb0800000000000000
+      internalID: -4736595497796880291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Brunhild_walking_Spritesheet_0: -7315730464842237571
+      Brunhild_walking_Spritesheet_1: 5037366875760506840
+      Brunhild_walking_Spritesheet_10: -7471162964755633637
+      Brunhild_walking_Spritesheet_11: -1883929868426916279
+      Brunhild_walking_Spritesheet_12: 4799864504868766516
+      Brunhild_walking_Spritesheet_13: -7400457856676944383
+      Brunhild_walking_Spritesheet_14: 119840772242866408
+      Brunhild_walking_Spritesheet_15: -4684564311851082431
+      Brunhild_walking_Spritesheet_16: -6365222306918908751
+      Brunhild_walking_Spritesheet_17: 4898544670808926327
+      Brunhild_walking_Spritesheet_18: 4459071316864680036
+      Brunhild_walking_Spritesheet_19: -9210006841778905550
+      Brunhild_walking_Spritesheet_2: 3947061103465175014
+      Brunhild_walking_Spritesheet_20: -7673721393436140239
+      Brunhild_walking_Spritesheet_21: -1382692783295119089
+      Brunhild_walking_Spritesheet_22: -7534148402291757712
+      Brunhild_walking_Spritesheet_23: -4384214143200008978
+      Brunhild_walking_Spritesheet_24: 2598924253919561998
+      Brunhild_walking_Spritesheet_25: 8450024211762142184
+      Brunhild_walking_Spritesheet_26: 8825593921354002000
+      Brunhild_walking_Spritesheet_27: -2934035199400571344
+      Brunhild_walking_Spritesheet_28: 3054664751886487366
+      Brunhild_walking_Spritesheet_29: -4277727288907583828
+      Brunhild_walking_Spritesheet_3: -8686115518751161647
+      Brunhild_walking_Spritesheet_30: -1360909657901550129
+      Brunhild_walking_Spritesheet_31: 313226652441272210
+      Brunhild_walking_Spritesheet_32: 8182814878965249829
+      Brunhild_walking_Spritesheet_33: 4568506228593315217
+      Brunhild_walking_Spritesheet_34: 2049251956670952032
+      Brunhild_walking_Spritesheet_35: -1127071666762611452
+      Brunhild_walking_Spritesheet_36: -2486693186721209966
+      Brunhild_walking_Spritesheet_37: 493812245888812516
+      Brunhild_walking_Spritesheet_38: 1051805749118089752
+      Brunhild_walking_Spritesheet_39: -5513237829165328691
+      Brunhild_walking_Spritesheet_4: 3761801518945525553
+      Brunhild_walking_Spritesheet_40: -9125180821871995290
+      Brunhild_walking_Spritesheet_41: 1394113435483897011
+      Brunhild_walking_Spritesheet_42: -8925775887106348670
+      Brunhild_walking_Spritesheet_43: -2820288100136174413
+      Brunhild_walking_Spritesheet_44: 1135227857989645707
+      Brunhild_walking_Spritesheet_45: -7208178347991800978
+      Brunhild_walking_Spritesheet_46: -2686660583559331355
+      Brunhild_walking_Spritesheet_47: 3090823981249667885
+      Brunhild_walking_Spritesheet_48: 5140286861185685835
+      Brunhild_walking_Spritesheet_49: 8065582877494421144
+      Brunhild_walking_Spritesheet_5: -6588094944547152480
+      Brunhild_walking_Spritesheet_50: -115095009725682015
+      Brunhild_walking_Spritesheet_51: 7444943575450351882
+      Brunhild_walking_Spritesheet_52: 5543860676210906148
+      Brunhild_walking_Spritesheet_53: -5999461255785388981
+      Brunhild_walking_Spritesheet_54: -7004747594913401477
+      Brunhild_walking_Spritesheet_55: 6778518692650627835
+      Brunhild_walking_Spritesheet_56: 4107254645743290184
+      Brunhild_walking_Spritesheet_57: -2753185840690793855
+      Brunhild_walking_Spritesheet_58: 8141343012213466419
+      Brunhild_walking_Spritesheet_59: -5407138333424835796
+      Brunhild_walking_Spritesheet_6: 1832902430942180541
+      Brunhild_walking_Spritesheet_60: -7946813205186368940
+      Brunhild_walking_Spritesheet_61: 1936161788651958529
+      Brunhild_walking_Spritesheet_62: -1046027619113495118
+      Brunhild_walking_Spritesheet_63: -4537685036902938689
+      Brunhild_walking_Spritesheet_64: -5474892484083543546
+      Brunhild_walking_Spritesheet_65: -5916232428981392004
+      Brunhild_walking_Spritesheet_66: 2104147539995303308
+      Brunhild_walking_Spritesheet_67: 7144777756153786248
+      Brunhild_walking_Spritesheet_68: 6670446704814455622
+      Brunhild_walking_Spritesheet_69: -5033547583157161857
+      Brunhild_walking_Spritesheet_7: -1062879722277143475
+      Brunhild_walking_Spritesheet_70: -7763980388545702989
+      Brunhild_walking_Spritesheet_71: -3299569891494025464
+      Brunhild_walking_Spritesheet_72: 3615669944752127914
+      Brunhild_walking_Spritesheet_73: -6189672995400210720
+      Brunhild_walking_Spritesheet_74: -5824256242185062050
+      Brunhild_walking_Spritesheet_75: -370791199614083105
+      Brunhild_walking_Spritesheet_76: 426461014760189027
+      Brunhild_walking_Spritesheet_77: 3334580059124020075
+      Brunhild_walking_Spritesheet_78: -2590166493776897405
+      Brunhild_walking_Spritesheet_79: 8132887549121628531
+      Brunhild_walking_Spritesheet_8: -923422747153354901
+      Brunhild_walking_Spritesheet_80: -4736595497796880291
+      Brunhild_walking_Spritesheet_9: 952941633882864254
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

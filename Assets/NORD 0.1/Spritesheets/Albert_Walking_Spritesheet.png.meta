@@ -1,0 +1,2132 @@
+fileFormatVersion: 2
+guid: e6483d15039be8746851128933c429fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6922876061180356416
+    second: Albert_Walking_Spritesheet_0
+  - first:
+      213: 5121434361266582249
+    second: Albert_Walking_Spritesheet_1
+  - first:
+      213: 8027193740102108275
+    second: Albert_Walking_Spritesheet_2
+  - first:
+      213: 2351217398300032692
+    second: Albert_Walking_Spritesheet_3
+  - first:
+      213: 2659885803806681873
+    second: Albert_Walking_Spritesheet_4
+  - first:
+      213: 3663142613715792569
+    second: Albert_Walking_Spritesheet_5
+  - first:
+      213: -3723460559902168776
+    second: Albert_Walking_Spritesheet_6
+  - first:
+      213: -3321551861159075690
+    second: Albert_Walking_Spritesheet_7
+  - first:
+      213: -6405464211670769625
+    second: Albert_Walking_Spritesheet_8
+  - first:
+      213: 4586124561832478912
+    second: Albert_Walking_Spritesheet_9
+  - first:
+      213: 4580110593102215226
+    second: Albert_Walking_Spritesheet_10
+  - first:
+      213: 7637520071407843348
+    second: Albert_Walking_Spritesheet_11
+  - first:
+      213: -5371890215982341747
+    second: Albert_Walking_Spritesheet_12
+  - first:
+      213: -1640772778536324113
+    second: Albert_Walking_Spritesheet_13
+  - first:
+      213: -4661373351317568509
+    second: Albert_Walking_Spritesheet_14
+  - first:
+      213: -3035353800901946238
+    second: Albert_Walking_Spritesheet_15
+  - first:
+      213: 8781101486988802978
+    second: Albert_Walking_Spritesheet_16
+  - first:
+      213: -8068249813584032065
+    second: Albert_Walking_Spritesheet_17
+  - first:
+      213: -2073204655448369756
+    second: Albert_Walking_Spritesheet_18
+  - first:
+      213: -1894206420234685390
+    second: Albert_Walking_Spritesheet_19
+  - first:
+      213: -6507751445451461131
+    second: Albert_Walking_Spritesheet_20
+  - first:
+      213: 4644708531499136764
+    second: Albert_Walking_Spritesheet_21
+  - first:
+      213: 2276082028620825617
+    second: Albert_Walking_Spritesheet_22
+  - first:
+      213: -4909164279721520750
+    second: Albert_Walking_Spritesheet_23
+  - first:
+      213: 984454752525578052
+    second: Albert_Walking_Spritesheet_24
+  - first:
+      213: 2509660461238534851
+    second: Albert_Walking_Spritesheet_25
+  - first:
+      213: -2651479765286095643
+    second: Albert_Walking_Spritesheet_26
+  - first:
+      213: -6696507138841870213
+    second: Albert_Walking_Spritesheet_27
+  - first:
+      213: 3964289556221090641
+    second: Albert_Walking_Spritesheet_28
+  - first:
+      213: -6182398470497841919
+    second: Albert_Walking_Spritesheet_29
+  - first:
+      213: 1735175967542622966
+    second: Albert_Walking_Spritesheet_30
+  - first:
+      213: 7221966245123271316
+    second: Albert_Walking_Spritesheet_31
+  - first:
+      213: 5556580342231476565
+    second: Albert_Walking_Spritesheet_32
+  - first:
+      213: 2363208963764354103
+    second: Albert_Walking_Spritesheet_33
+  - first:
+      213: -3779030063655579163
+    second: Albert_Walking_Spritesheet_34
+  - first:
+      213: 3703378184189186293
+    second: Albert_Walking_Spritesheet_35
+  - first:
+      213: -4316469961806920649
+    second: Albert_Walking_Spritesheet_36
+  - first:
+      213: -2746405711716555304
+    second: Albert_Walking_Spritesheet_37
+  - first:
+      213: 4564553441837451066
+    second: Albert_Walking_Spritesheet_38
+  - first:
+      213: -2822767542951773761
+    second: Albert_Walking_Spritesheet_39
+  - first:
+      213: 556000590477381127
+    second: Albert_Walking_Spritesheet_40
+  - first:
+      213: 5237406262307766441
+    second: Albert_Walking_Spritesheet_41
+  - first:
+      213: 7525393422219205670
+    second: Albert_Walking_Spritesheet_42
+  - first:
+      213: 4403531603523444314
+    second: Albert_Walking_Spritesheet_43
+  - first:
+      213: 6213490127679081248
+    second: Albert_Walking_Spritesheet_44
+  - first:
+      213: 8743645186093368138
+    second: Albert_Walking_Spritesheet_45
+  - first:
+      213: -367806891572290417
+    second: Albert_Walking_Spritesheet_46
+  - first:
+      213: 8458122260068586815
+    second: Albert_Walking_Spritesheet_47
+  - first:
+      213: 5504927814316145898
+    second: Albert_Walking_Spritesheet_48
+  - first:
+      213: -4737748619666083294
+    second: Albert_Walking_Spritesheet_49
+  - first:
+      213: 1764847384960130969
+    second: Albert_Walking_Spritesheet_50
+  - first:
+      213: 4068658528529848449
+    second: Albert_Walking_Spritesheet_51
+  - first:
+      213: -7578191125711698635
+    second: Albert_Walking_Spritesheet_52
+  - first:
+      213: -5405773273899331264
+    second: Albert_Walking_Spritesheet_53
+  - first:
+      213: 6329297275386551628
+    second: Albert_Walking_Spritesheet_54
+  - first:
+      213: -1002469347296243312
+    second: Albert_Walking_Spritesheet_55
+  - first:
+      213: 5396580220959149369
+    second: Albert_Walking_Spritesheet_56
+  - first:
+      213: 8170191251101358623
+    second: Albert_Walking_Spritesheet_57
+  - first:
+      213: 3898274729309322553
+    second: Albert_Walking_Spritesheet_58
+  - first:
+      213: -3614967167903857367
+    second: Albert_Walking_Spritesheet_59
+  - first:
+      213: -4523618544004208889
+    second: Albert_Walking_Spritesheet_60
+  - first:
+      213: -7475134741022929637
+    second: Albert_Walking_Spritesheet_61
+  - first:
+      213: -6007448665127142075
+    second: Albert_Walking_Spritesheet_62
+  - first:
+      213: 2028015828947029952
+    second: Albert_Walking_Spritesheet_63
+  - first:
+      213: -6227995149749666484
+    second: Albert_Walking_Spritesheet_64
+  - first:
+      213: 6436194357551790470
+    second: Albert_Walking_Spritesheet_65
+  - first:
+      213: 3802453798468968645
+    second: Albert_Walking_Spritesheet_66
+  - first:
+      213: 4381498623319719349
+    second: Albert_Walking_Spritesheet_67
+  - first:
+      213: 4915532850257592329
+    second: Albert_Walking_Spritesheet_68
+  - first:
+      213: -2553606694380254766
+    second: Albert_Walking_Spritesheet_69
+  - first:
+      213: -4229546066995136178
+    second: Albert_Walking_Spritesheet_70
+  - first:
+      213: -1869061408133814281
+    second: Albert_Walking_Spritesheet_71
+  - first:
+      213: -2802135291765291425
+    second: Albert_Walking_Spritesheet_72
+  - first:
+      213: -2690798967298457372
+    second: Albert_Walking_Spritesheet_73
+  - first:
+      213: -3237390403150275482
+    second: Albert_Walking_Spritesheet_74
+  - first:
+      213: 1793965963342177432
+    second: Albert_Walking_Spritesheet_75
+  - first:
+      213: -2973168528160263118
+    second: Albert_Walking_Spritesheet_76
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 5292
+        width: 338
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 047e5b2491ff21060800000000000000
+      internalID: 6922876061180356416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 5292
+        width: 306
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e236c3ca6df21740800000000000000
+      internalID: 5121434361266582249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 5292
+        width: 272
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374860e3d22566f60800000000000000
+      internalID: 8027193740102108275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 5292
+        width: 290
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be346734c331a020800000000000000
+      internalID: 2351217398300032692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 5292
+        width: 271
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b600fbb00d9e420800000000000000
+      internalID: 2659885803806681873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 2364
+        y: 5292
+        width: 271
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2302c8cc816d230800000000000000
+      internalID: 3663142613715792569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 5292
+        width: 306
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839aad7395c935cc0800000000000000
+      internalID: -3723460559902168776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 3241
+        y: 5292
+        width: 338
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 690639c3e2a77e1d0800000000000000
+      internalID: -3321551861159075690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 5292
+        width: 306
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720e2e1bc383b17a0800000000000000
+      internalID: -6405464211670769625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4179
+        y: 5292
+        width: 273
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c808bb9dff25af30800000000000000
+      internalID: 4586124561832478912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 4624
+        y: 5292
+        width: 292
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a387cd56152df8f30800000000000000
+      internalID: 4580110593102215226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 5087
+        y: 5292
+        width: 272
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4183e252a0cedf960800000000000000
+      internalID: 7637520071407843348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 5527
+        y: 5292
+        width: 306
+        height: 1002
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d81e9ff5f463375b0800000000000000
+      internalID: -5371890215982341747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 5965
+        y: 5313
+        width: 366
+        height: 981
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe33632e9ddca39e0800000000000000
+      internalID: -1640772778536324113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 4264
+        width: 359
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3048e3d42a97f4fb0800000000000000
+      internalID: -4661373351317568509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 4264
+        width: 358
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2849b91dcc140e5d0800000000000000
+      internalID: -3035353800901946238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 4264
+        width: 305
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab3f94374dbcd970800000000000000
+      internalID: 8781101486988802978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 1465
+        y: 4264
+        width: 277
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe463eba81d70090800000000000000
+      internalID: -8068249813584032065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 4264
+        width: 306
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a55055a95f7a33e0800000000000000
+      internalID: -2073204655448369756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 4264
+        width: 373
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234b5a6fb4d66b5e0800000000000000
+      internalID: -1894206420234685390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 2779
+        y: 4264
+        width: 349
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fda4573a82dfa5a0800000000000000
+      internalID: -6507751445451461131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 4264
+        width: 324
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf67b39fcc1557040800000000000000
+      internalID: 4644708531499136764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 3723
+        y: 4264
+        width: 290
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 114489bbb84469f10800000000000000
+      internalID: 2276082028620825617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 4189
+        y: 4264
+        width: 277
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2919923f8152fdbb0800000000000000
+      internalID: -4909164279721520750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 4619
+        y: 4264
+        width: 306
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f6bbda16c79ad00800000000000000
+      internalID: 984454752525578052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 5062
+        y: 4264
+        width: 357
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c247fa84ea14d220800000000000000
+      internalID: 2509660461238534851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 5501
+        y: 4264
+        width: 344
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e47cfc933d043bd0800000000000000
+      internalID: -2651479765286095643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 5956
+        y: 4264
+        width: 343
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b708671ac3a3113a0800000000000000
+      internalID: -6696507138841870213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 3215
+        width: 303
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b5951095cf30730800000000000000
+      internalID: 3964289556221090641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3215
+        width: 291
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10dce0ac855b33aa0800000000000000
+      internalID: -6182398470497841919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 3215
+        width: 309
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa3c206955941810800000000000000
+      internalID: 1735175967542622966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 3215
+        width: 375
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a2f6c4904993460800000000000000
+      internalID: 7221966245123271316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 3215
+        width: 358
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55920a89160fc1d40800000000000000
+      internalID: 5556580342231476565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2306
+        y: 3215
+        width: 362
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c713f180ecbc020800000000000000
+      internalID: 2363208963764354103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 3215
+        width: 315
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e19944ed203e8bc0800000000000000
+      internalID: -3779030063655579163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 3285
+        y: 3215
+        width: 290
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f0178156da056330800000000000000
+      internalID: 3703378184189186293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 3215
+        width: 308
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734cada7071d814c0800000000000000
+      internalID: -4316469961806920649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 4154
+        y: 3215
+        width: 357
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5e7086e8ec2e9d0800000000000000
+      internalID: -2746405711716555304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 4592
+        y: 3215
+        width: 384
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37020bdb2d885f30800000000000000
+      internalID: 4564553441837451066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 3215
+        width: 369
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb97bd610e383d8d0800000000000000
+      internalID: -2822767542951773761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 5482
+        y: 3215
+        width: 371
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ecf4a579f47b700800000000000000
+      internalID: 556000590477381127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5978
+        y: 3215
+        width: 328
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0c2412f310fa840800000000000000
+      internalID: 5237406262307766441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2166
+        width: 293
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62cdf6e32719f6860800000000000000
+      internalID: 7525393422219205670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2166
+        width: 309
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e983999ac7c1d30800000000000000
+      internalID: 4403531603523444314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2166
+        width: 375
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b45b3c950ca3650800000000000000
+      internalID: 6213490127679081248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 2166
+        width: 363
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a43462f88faa75970800000000000000
+      internalID: 8743645186093368138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 1853
+        y: 2166
+        width: 368
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c94e1b49945eaf0800000000000000
+      internalID: -367806891572290417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 2345
+        y: 2166
+        width: 329
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f35563ae169416570800000000000000
+      internalID: 8458122260068586815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 2834
+        y: 2166
+        width: 293
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec3b764eae656c40800000000000000
+      internalID: 5504927814316145898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 2166
+        width: 309
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222b4b96bb2204eb0800000000000000
+      internalID: -4737748619666083294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 2166
+        width: 360
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f5357985ffd7810800000000000000
+      internalID: 1764847384960130969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 4117
+        y: 2166
+        width: 359
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18892610067c67830800000000000000
+      internalID: 4068658528529848449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 4607
+        y: 2166
+        width: 321
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535cfe7725bd4d690800000000000000
+      internalID: -7578191125711698635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 5084
+        y: 2166
+        width: 296
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0411ee039d5daf4b0800000000000000
+      internalID: -5405773273899331264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 5558
+        y: 2166
+        width: 275
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d5341865e26d750800000000000000
+      internalID: 6329297275386551628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 5994
+        y: 2166
+        width: 299
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0919030a0738612f0800000000000000
+      internalID: -1002469347296243312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1117
+        width: 340
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d4b206e1184ea40800000000000000
+      internalID: 5396580220959149369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1117
+        width: 360
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a96e4c7a9526170800000000000000
+      internalID: 8170191251101358623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 1117
+        width: 340
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d3d5d5634791630800000000000000
+      internalID: 3898274729309322553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 1117
+        width: 288
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9250462838e05ddc0800000000000000
+      internalID: -3614967167903857367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 1117
+        width: 275
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7076241c6e0e831c0800000000000000
+      internalID: -4523618544004208889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 2362
+        y: 1117
+        width: 292
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1d8529de8cf24890800000000000000
+      internalID: -7475134741022929637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 1117
+        width: 360
+        height: 982
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54db3b4944141aca0800000000000000
+      internalID: -6007448665127142075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 3281
+        y: 1101
+        width: 265
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cfc14bc6a5f42c10800000000000000
+      internalID: 2028015828947029952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 3735
+        y: 1101
+        width: 265
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4db05c9867b199a0800000000000000
+      internalID: -6227995149749666484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 1103
+        width: 263
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6897f33faa4f15950800000000000000
+      internalID: 6436194357551790470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 4638
+        y: 1109
+        width: 270
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c0e39c559705c430800000000000000
+      internalID: 3802453798468968645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 5086
+        y: 1111
+        width: 275
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bdb5d2a8c53ecc30800000000000000
+      internalID: 4381498623319719349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 5531
+        y: 1109
+        width: 279
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9000e5d651b773440800000000000000
+      internalID: 4915532850257592329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 5989
+        y: 1103
+        width: 271
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9c765bd34cf8cd0800000000000000
+      internalID: -2553606694380254766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 52
+        width: 267
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49ba9bd242ad45c0800000000000000
+      internalID: -4229546066995136178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 52
+        width: 267
+        height: 998
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7eac05d82cf06e0800000000000000
+      internalID: -1869061408133814281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 54
+        width: 271
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f568eb96cc0dc19d0800000000000000
+      internalID: -2802135291765291425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 60
+        width: 273
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e00030889c58aad0800000000000000
+      internalID: -2690798967298457372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_74
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 62
+        width: 272
+        height: 988
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c18fca49a7213d0800000000000000
+      internalID: -3237390403150275482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_75
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 60
+        width: 277
+        height: 990
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894e620f98275e810800000000000000
+      internalID: 1793965963342177432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Albert_Walking_Spritesheet_76
+      rect:
+        serializedVersion: 2
+        x: 2826
+        y: 54
+        width: 266
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 234f2a5e9fe2db6d0800000000000000
+      internalID: -2973168528160263118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Albert_Walking_Spritesheet_0: 6922876061180356416
+      Albert_Walking_Spritesheet_1: 5121434361266582249
+      Albert_Walking_Spritesheet_10: 4580110593102215226
+      Albert_Walking_Spritesheet_11: 7637520071407843348
+      Albert_Walking_Spritesheet_12: -5371890215982341747
+      Albert_Walking_Spritesheet_13: -1640772778536324113
+      Albert_Walking_Spritesheet_14: -4661373351317568509
+      Albert_Walking_Spritesheet_15: -3035353800901946238
+      Albert_Walking_Spritesheet_16: 8781101486988802978
+      Albert_Walking_Spritesheet_17: -8068249813584032065
+      Albert_Walking_Spritesheet_18: -2073204655448369756
+      Albert_Walking_Spritesheet_19: -1894206420234685390
+      Albert_Walking_Spritesheet_2: 8027193740102108275
+      Albert_Walking_Spritesheet_20: -6507751445451461131
+      Albert_Walking_Spritesheet_21: 4644708531499136764
+      Albert_Walking_Spritesheet_22: 2276082028620825617
+      Albert_Walking_Spritesheet_23: -4909164279721520750
+      Albert_Walking_Spritesheet_24: 984454752525578052
+      Albert_Walking_Spritesheet_25: 2509660461238534851
+      Albert_Walking_Spritesheet_26: -2651479765286095643
+      Albert_Walking_Spritesheet_27: -6696507138841870213
+      Albert_Walking_Spritesheet_28: 3964289556221090641
+      Albert_Walking_Spritesheet_29: -6182398470497841919
+      Albert_Walking_Spritesheet_3: 2351217398300032692
+      Albert_Walking_Spritesheet_30: 1735175967542622966
+      Albert_Walking_Spritesheet_31: 7221966245123271316
+      Albert_Walking_Spritesheet_32: 5556580342231476565
+      Albert_Walking_Spritesheet_33: 2363208963764354103
+      Albert_Walking_Spritesheet_34: -3779030063655579163
+      Albert_Walking_Spritesheet_35: 3703378184189186293
+      Albert_Walking_Spritesheet_36: -4316469961806920649
+      Albert_Walking_Spritesheet_37: -2746405711716555304
+      Albert_Walking_Spritesheet_38: 4564553441837451066
+      Albert_Walking_Spritesheet_39: -2822767542951773761
+      Albert_Walking_Spritesheet_4: 2659885803806681873
+      Albert_Walking_Spritesheet_40: 556000590477381127
+      Albert_Walking_Spritesheet_41: 5237406262307766441
+      Albert_Walking_Spritesheet_42: 7525393422219205670
+      Albert_Walking_Spritesheet_43: 4403531603523444314
+      Albert_Walking_Spritesheet_44: 6213490127679081248
+      Albert_Walking_Spritesheet_45: 8743645186093368138
+      Albert_Walking_Spritesheet_46: -367806891572290417
+      Albert_Walking_Spritesheet_47: 8458122260068586815
+      Albert_Walking_Spritesheet_48: 5504927814316145898
+      Albert_Walking_Spritesheet_49: -4737748619666083294
+      Albert_Walking_Spritesheet_5: 3663142613715792569
+      Albert_Walking_Spritesheet_50: 1764847384960130969
+      Albert_Walking_Spritesheet_51: 4068658528529848449
+      Albert_Walking_Spritesheet_52: -7578191125711698635
+      Albert_Walking_Spritesheet_53: -5405773273899331264
+      Albert_Walking_Spritesheet_54: 6329297275386551628
+      Albert_Walking_Spritesheet_55: -1002469347296243312
+      Albert_Walking_Spritesheet_56: 5396580220959149369
+      Albert_Walking_Spritesheet_57: 8170191251101358623
+      Albert_Walking_Spritesheet_58: 3898274729309322553
+      Albert_Walking_Spritesheet_59: -3614967167903857367
+      Albert_Walking_Spritesheet_6: -3723460559902168776
+      Albert_Walking_Spritesheet_60: -4523618544004208889
+      Albert_Walking_Spritesheet_61: -7475134741022929637
+      Albert_Walking_Spritesheet_62: -6007448665127142075
+      Albert_Walking_Spritesheet_63: 2028015828947029952
+      Albert_Walking_Spritesheet_64: -6227995149749666484
+      Albert_Walking_Spritesheet_65: 6436194357551790470
+      Albert_Walking_Spritesheet_66: 3802453798468968645
+      Albert_Walking_Spritesheet_67: 4381498623319719349
+      Albert_Walking_Spritesheet_68: 4915532850257592329
+      Albert_Walking_Spritesheet_69: -2553606694380254766
+      Albert_Walking_Spritesheet_7: -3321551861159075690
+      Albert_Walking_Spritesheet_70: -4229546066995136178
+      Albert_Walking_Spritesheet_71: -1869061408133814281
+      Albert_Walking_Spritesheet_72: -2802135291765291425
+      Albert_Walking_Spritesheet_73: -2690798967298457372
+      Albert_Walking_Spritesheet_74: -3237390403150275482
+      Albert_Walking_Spritesheet_75: 1793965963342177432
+      Albert_Walking_Spritesheet_76: -2973168528160263118
+      Albert_Walking_Spritesheet_8: -6405464211670769625
+      Albert_Walking_Spritesheet_9: 4586124561832478912
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

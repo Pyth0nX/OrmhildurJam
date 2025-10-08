@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: e4526803348fdc340969771af04cb8a5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7005393230197295096
+    second: Alfur_Running_Spritesheet_0
+  - first:
+      213: 1064989375686965900
+    second: Alfur_Running_Spritesheet_1
+  - first:
+      213: 594956213160125974
+    second: Alfur_Running_Spritesheet_2
+  - first:
+      213: -5356990866235237976
+    second: Alfur_Running_Spritesheet_3
+  - first:
+      213: -7773231663845835913
+    second: Alfur_Running_Spritesheet_4
+  - first:
+      213: 6175628989556682158
+    second: Alfur_Running_Spritesheet_5
+  - first:
+      213: -1395455980833776060
+    second: Alfur_Running_Spritesheet_6
+  - first:
+      213: -7082918063822734946
+    second: Alfur_Running_Spritesheet_7
+  - first:
+      213: -2133341600096491279
+    second: Alfur_Running_Spritesheet_8
+  - first:
+      213: 5372023573944783834
+    second: Alfur_Running_Spritesheet_9
+  - first:
+      213: 8081634772243237327
+    second: Alfur_Running_Spritesheet_10
+  - first:
+      213: -8220855378063483737
+    second: Alfur_Running_Spritesheet_11
+  - first:
+      213: -2233619300561733925
+    second: Alfur_Running_Spritesheet_12
+  - first:
+      213: -704118258434757984
+    second: Alfur_Running_Spritesheet_13
+  - first:
+      213: 8605238443334335530
+    second: Alfur_Running_Spritesheet_14
+  - first:
+      213: 3303760473733606947
+    second: Alfur_Running_Spritesheet_15
+  - first:
+      213: 4832582027383860622
+    second: Alfur_Running_Spritesheet_16
+  - first:
+      213: -1787102157385335014
+    second: Alfur_Running_Spritesheet_17
+  - first:
+      213: -2256472338457041545
+    second: Alfur_Running_Spritesheet_18
+  - first:
+      213: 6495763297656087099
+    second: Alfur_Running_Spritesheet_19
+  - first:
+      213: 2009348807415170694
+    second: Alfur_Running_Spritesheet_20
+  - first:
+      213: 4896553945285355147
+    second: Alfur_Running_Spritesheet_21
+  - first:
+      213: -2822018993722899564
+    second: Alfur_Running_Spritesheet_22
+  - first:
+      213: 4049457746747293740
+    second: Alfur_Running_Spritesheet_23
+  - first:
+      213: -3569225895725040779
+    second: Alfur_Running_Spritesheet_24
+  - first:
+      213: 7720354284387551960
+    second: Alfur_Running_Spritesheet_25
+  - first:
+      213: 178477207208972060
+    second: Alfur_Running_Spritesheet_26
+  - first:
+      213: 1887792248851619507
+    second: Alfur_Running_Spritesheet_27
+  - first:
+      213: 1825948029050084631
+    second: Alfur_Running_Spritesheet_28
+  - first:
+      213: 1587656613779174012
+    second: Alfur_Running_Spritesheet_29
+  - first:
+      213: 5770928493219726794
+    second: Alfur_Running_Spritesheet_30
+  - first:
+      213: -6705377200719033667
+    second: Alfur_Running_Spritesheet_31
+  - first:
+      213: -4724958713642270057
+    second: Alfur_Running_Spritesheet_32
+  - first:
+      213: 4509769046856317008
+    second: Alfur_Running_Spritesheet_33
+  - first:
+      213: 6243790534514818619
+    second: Alfur_Running_Spritesheet_34
+  - first:
+      213: -3884861494931332845
+    second: Alfur_Running_Spritesheet_35
+  - first:
+      213: -6363557736057447063
+    second: Alfur_Running_Spritesheet_36
+  - first:
+      213: -6645877724284675651
+    second: Alfur_Running_Spritesheet_37
+  - first:
+      213: 2480997565367168681
+    second: Alfur_Running_Spritesheet_38
+  - first:
+      213: 2059580417295289405
+    second: Alfur_Running_Spritesheet_39
+  - first:
+      213: -1259957930241475159
+    second: Alfur_Running_Spritesheet_40
+  - first:
+      213: -1976244147769523651
+    second: Alfur_Running_Spritesheet_41
+  - first:
+      213: -7507966276711599039
+    second: Alfur_Running_Spritesheet_42
+  - first:
+      213: -3811541708547515858
+    second: Alfur_Running_Spritesheet_43
+  - first:
+      213: 8299325327039983043
+    second: Alfur_Running_Spritesheet_44
+  - first:
+      213: 3436577943640165862
+    second: Alfur_Running_Spritesheet_45
+  - first:
+      213: -5409773304277040598
+    second: Alfur_Running_Spritesheet_46
+  - first:
+      213: 8079036494809698879
+    second: Alfur_Running_Spritesheet_47
+  - first:
+      213: -2025472280263720463
+    second: Alfur_Running_Spritesheet_48
+  - first:
+      213: 7313581206720490968
+    second: Alfur_Running_Spritesheet_49
+  - first:
+      213: -719656390118868012
+    second: Alfur_Running_Spritesheet_50
+  - first:
+      213: 6532225245134689651
+    second: Alfur_Running_Spritesheet_51
+  - first:
+      213: -5769099273011040323
+    second: Alfur_Running_Spritesheet_52
+  - first:
+      213: -803937843052318740
+    second: Alfur_Running_Spritesheet_53
+  - first:
+      213: 3465758220243616538
+    second: Alfur_Running_Spritesheet_54
+  - first:
+      213: 4688745060266901244
+    second: Alfur_Running_Spritesheet_55
+  - first:
+      213: 7506405274066727493
+    second: Alfur_Running_Spritesheet_56
+  - first:
+      213: 2588210330579053392
+    second: Alfur_Running_Spritesheet_57
+  - first:
+      213: -3982339260477961371
+    second: Alfur_Running_Spritesheet_58
+  - first:
+      213: -5503244074487832365
+    second: Alfur_Running_Spritesheet_59
+  - first:
+      213: -1582160549648593651
+    second: Alfur_Running_Spritesheet_60
+  - first:
+      213: 4480112437413387592
+    second: Alfur_Running_Spritesheet_61
+  - first:
+      213: -869390608406949205
+    second: Alfur_Running_Spritesheet_62
+  - first:
+      213: 5685142572454745395
+    second: Alfur_Running_Spritesheet_63
+  - first:
+      213: 2218023619630542245
+    second: Alfur_Running_Spritesheet_64
+  - first:
+      213: -3499167160402094459
+    second: Alfur_Running_Spritesheet_65
+  - first:
+      213: 88746297045557558
+    second: Alfur_Running_Spritesheet_66
+  - first:
+      213: -4554750901054922717
+    second: Alfur_Running_Spritesheet_67
+  - first:
+      213: 2326784913004822097
+    second: Alfur_Running_Spritesheet_68
+  - first:
+      213: -6020070363194931598
+    second: Alfur_Running_Spritesheet_69
+  - first:
+      213: 8012591279551116262
+    second: Alfur_Running_Spritesheet_70
+  - first:
+      213: -8362350271164462962
+    second: Alfur_Running_Spritesheet_71
+  - first:
+      213: -2433684775788156585
+    second: Alfur_Running_Spritesheet_72
+  - first:
+      213: 6906418170999801954
+    second: Alfur_Running_Spritesheet_73
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 6603
+        width: 315
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808f92a29f7d7ce90800000000000000
+      internalID: -7005393230197295096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 6473
+        width: 312
+        height: 1029
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8af263d13a97ce00800000000000000
+      internalID: 1064989375686965900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 6454
+        width: 328
+        height: 1008
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616225e0685b14800800000000000000
+      internalID: 594956213160125974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 3243
+        y: 6471
+        width: 316
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a95901903528a5b0800000000000000
+      internalID: -5356990866235237976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 4233
+        y: 6588
+        width: 316
+        height: 929
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b76af6cfeef1490800000000000000
+      internalID: -7773231663845835913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 5221
+        y: 6543
+        width: 317
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead612b98dd34b550800000000000000
+      internalID: 6175628989556682158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 6205
+        y: 6469
+        width: 317
+        height: 993
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e55bacd2852ace0800000000000000
+      internalID: -1395455980833776060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 7191
+        y: 6478
+        width: 315
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99f5a04c8b64bd90800000000000000
+      internalID: -7082918063822734946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 6488
+        width: 248
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f86fad1e19d462e0800000000000000
+      internalID: -2133341600096491279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 4264
+        y: 6488
+        width: 248
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3d0027af24d8a40800000000000000
+      internalID: 5372023573944783834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 5259
+        y: 6479
+        width: 235
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9c00cc10cb72070800000000000000
+      internalID: 8081634772243237327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 5516
+        width: 656
+        height: 891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac9aa0f697a9ed80800000000000000
+      internalID: -8220855378063483737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 5488
+        width: 682
+        height: 874
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6bf8294179001e0800000000000000
+      internalID: -2233619300561733925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 2119
+        y: 5414
+        width: 552
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa212eac287a36f0800000000000000
+      internalID: -704118258434757984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 5414
+        width: 670
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c7a7e85c2fb6770800000000000000
+      internalID: 8605238443334335530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 4090
+        y: 5557
+        width: 733
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e2ed395a059dd20800000000000000
+      internalID: 3303760473733606947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 5059
+        y: 5529
+        width: 729
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8de622ffb7c01340800000000000000
+      internalID: 4832582027383860622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 6071
+        y: 5414
+        width: 594
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f76bb6e00f237e0800000000000000
+      internalID: -1787102157385335014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 7083
+        y: 5414
+        width: 583
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775e5cc0d566fa0e0800000000000000
+      internalID: -2256472338457041545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 5414
+        width: 247
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32afcd9d46952a50800000000000000
+      internalID: 6495763297656087099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 1269
+        y: 5414
+        width: 331
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68606d72814a2eb10800000000000000
+      internalID: 2009348807415170694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 4301
+        y: 5414
+        width: 247
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b866544cedd04f340800000000000000
+      internalID: 4896553945285355147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 5225
+        y: 5414
+        width: 331
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493cdb94dac26d8d0800000000000000
+      internalID: -2822018993722899564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 4442
+        width: 656
+        height: 891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2083df9d50923830800000000000000
+      internalID: 4049457746747293740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 4464
+        width: 745
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bfe2a55ff877ec0800000000000000
+      internalID: -3569225895725040779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 4446
+        width: 706
+        height: 864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dac5154155342b60800000000000000
+      internalID: 7720354284387551960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 4340
+        width: 541
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fc13803141a7200800000000000000
+      internalID: 178477207208972060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 4340
+        width: 716
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be59826c09c23a10800000000000000
+      internalID: 1887792248851619507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 5042
+        y: 4476
+        width: 771
+        height: 859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ddad1ee02175910800000000000000
+      internalID: 1825948029050084631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 6023
+        y: 4448
+        width: 730
+        height: 862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c727b99474d780610800000000000000
+      internalID: 1587656613779174012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 7084
+        y: 4340
+        width: 563
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5ca8e83e4761050800000000000000
+      internalID: 5770928493219726794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 4340
+        width: 247
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba832a66f6b1f2a0800000000000000
+      internalID: -6705377200719033667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 4340
+        width: 248
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79247f675139d6eb0800000000000000
+      internalID: -4724958713642270057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 4340
+        width: 332
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0583ce8ed0be59e30800000000000000
+      internalID: 4509769046856317008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 5271
+        y: 4340
+        width: 248
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3eb3bdf86666a650800000000000000
+      internalID: 6243790534514818619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 6200
+        y: 4340
+        width: 332
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3116601ad03361ac0800000000000000
+      internalID: -3884861494931332845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3266
+        width: 622
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d5b9264f910b7a0800000000000000
+      internalID: -6363557736057447063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 3390
+        width: 745
+        height: 871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9945fcb6915c3a0800000000000000
+      internalID: -6645877724284675651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 3355
+        width: 717
+        height: 863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aea15c04264e6220800000000000000
+      internalID: 2480997565367168681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 3095
+        y: 3355
+        width: 796
+        height: 834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c8c373a79159c10800000000000000
+      internalID: 2059580417295289405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 3256
+        width: 515
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad350020fab38ee0800000000000000
+      internalID: -1259957930241475159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 5225
+        y: 3256
+        width: 665
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32c0ce0b68f294e0800000000000000
+      internalID: -1976244147769523651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 6192
+        y: 3367
+        width: 717
+        height: 851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1443ef243785ec790800000000000000
+      internalID: -7507966276711599039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 7057
+        y: 3344
+        width: 781
+        height: 845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a907fa20faa1bc0800000000000000
+      internalID: -3811541708547515858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 3266
+        width: 248
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdee99c9602d2370800000000000000
+      internalID: 8299325327039983043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 2265
+        y: 3256
+        width: 335
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed4d959e6d21bf20800000000000000
+      internalID: 3436577943640165862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 3256
+        width: 349
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a220d2b87df9ce4b0800000000000000
+      internalID: -5409773304277040598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 6221
+        y: 3256
+        width: 335
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f329c8033e08e1070800000000000000
+      internalID: 8079036494809698879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 7203
+        y: 3256
+        width: 349
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f10b7841b314e3e0800000000000000
+      internalID: -2025472280263720463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2182
+        width: 514
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd2c86cb5f0f7560800000000000000
+      internalID: 7313581206720490968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 2182
+        width: 659
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbff9a73544306f0800000000000000
+      internalID: -719656390118868012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 2281
+        width: 753
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3759711504027aa50800000000000000
+      internalID: 6532225245134689651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 3051
+        y: 2294
+        width: 737
+        height: 884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbf6636f6ca00ffa0800000000000000
+      internalID: -5769099273011040323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 4008
+        y: 2191
+        width: 718
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef6f5b8ac6d7d4f0800000000000000
+      internalID: -803937843052318740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 2191
+        width: 795
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a13c20b2db8d81030800000000000000
+      internalID: 3465758220243616538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 5979
+        y: 2259
+        width: 804
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe739f4ac4c11140800000000000000
+      internalID: 4688745060266901244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 7004
+        y: 2242
+        width: 686
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542bddc73db1c2860800000000000000
+      internalID: 7506405274066727493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 2192
+        width: 248
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b292e259b2be320800000000000000
+      internalID: 2588210330579053392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 2192
+        width: 296
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b8e1cba83ebb8c0800000000000000
+      internalID: -3982339260477961371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 6199
+        y: 2191
+        width: 322
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d021e3fbac80a3b0800000000000000
+      internalID: -5503244074487832365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_60
+      rect:
+        serializedVersion: 2
+        x: 7207
+        y: 2192
+        width: 296
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d0f8cdc590b0ae0800000000000000
+      internalID: -1582160549648593651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_61
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 1118
+        width: 668
+        height: 947
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d95d1768e8c2e30800000000000000
+      internalID: 4480112437413387592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_62
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 1118
+        width: 738
+        height: 963
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2d7de09dd4fe3f0800000000000000
+      internalID: -869390608406949205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_63
+      rect:
+        serializedVersion: 2
+        x: 2078
+        y: 1207
+        width: 753
+        height: 922
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3359d986c0fa5ee40800000000000000
+      internalID: 5685142572454745395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_64
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1098
+        width: 308
+        height: 1049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad218ffab008ce10800000000000000
+      internalID: 2218023619630542245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_65
+      rect:
+        serializedVersion: 2
+        x: 4231
+        y: 1101
+        width: 311
+        height: 1025
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586558ac106707fc0800000000000000
+      internalID: -3499167160402094459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_66
+      rect:
+        serializedVersion: 2
+        x: 5219
+        y: 1075
+        width: 312
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6312886794a4b3100800000000000000
+      internalID: 88746297045557558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_67
+      rect:
+        serializedVersion: 2
+        x: 6214
+        y: 1073
+        width: 310
+        height: 1047
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3202b3600364ac0c0800000000000000
+      internalID: -4554750901054922717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_68
+      rect:
+        serializedVersion: 2
+        x: 7204
+        y: 1117
+        width: 309
+        height: 1030
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ef360fc866a4020800000000000000
+      internalID: 2326784913004822097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_69
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1118
+        width: 248
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276c8ee76e9647ca0800000000000000
+      internalID: -6020070363194931598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_70
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 51
+        width: 310
+        height: 1001
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e37904f051723f60800000000000000
+      internalID: 8012591279551116262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_71
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 12
+        width: 312
+        height: 1007
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e88c9d7ebb6f2fb80800000000000000
+      internalID: -8362350271164462962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_72
+      rect:
+        serializedVersion: 2
+        x: 2252
+        y: 0
+        width: 312
+        height: 1046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759eed33790d93ed0800000000000000
+      internalID: -2433684775788156585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Alfur_Running_Spritesheet_73
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 24
+        width: 308
+        height: 1049
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2680fb81cb688df50800000000000000
+      internalID: 6906418170999801954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Alfur_Running_Spritesheet_0: -7005393230197295096
+      Alfur_Running_Spritesheet_1: 1064989375686965900
+      Alfur_Running_Spritesheet_10: 8081634772243237327
+      Alfur_Running_Spritesheet_11: -8220855378063483737
+      Alfur_Running_Spritesheet_12: -2233619300561733925
+      Alfur_Running_Spritesheet_13: -704118258434757984
+      Alfur_Running_Spritesheet_14: 8605238443334335530
+      Alfur_Running_Spritesheet_15: 3303760473733606947
+      Alfur_Running_Spritesheet_16: 4832582027383860622
+      Alfur_Running_Spritesheet_17: -1787102157385335014
+      Alfur_Running_Spritesheet_18: -2256472338457041545
+      Alfur_Running_Spritesheet_19: 6495763297656087099
+      Alfur_Running_Spritesheet_2: 594956213160125974
+      Alfur_Running_Spritesheet_20: 2009348807415170694
+      Alfur_Running_Spritesheet_21: 4896553945285355147
+      Alfur_Running_Spritesheet_22: -2822018993722899564
+      Alfur_Running_Spritesheet_23: 4049457746747293740
+      Alfur_Running_Spritesheet_24: -3569225895725040779
+      Alfur_Running_Spritesheet_25: 7720354284387551960
+      Alfur_Running_Spritesheet_26: 178477207208972060
+      Alfur_Running_Spritesheet_27: 1887792248851619507
+      Alfur_Running_Spritesheet_28: 1825948029050084631
+      Alfur_Running_Spritesheet_29: 1587656613779174012
+      Alfur_Running_Spritesheet_3: -5356990866235237976
+      Alfur_Running_Spritesheet_30: 5770928493219726794
+      Alfur_Running_Spritesheet_31: -6705377200719033667
+      Alfur_Running_Spritesheet_32: -4724958713642270057
+      Alfur_Running_Spritesheet_33: 4509769046856317008
+      Alfur_Running_Spritesheet_34: 6243790534514818619
+      Alfur_Running_Spritesheet_35: -3884861494931332845
+      Alfur_Running_Spritesheet_36: -6363557736057447063
+      Alfur_Running_Spritesheet_37: -6645877724284675651
+      Alfur_Running_Spritesheet_38: 2480997565367168681
+      Alfur_Running_Spritesheet_39: 2059580417295289405
+      Alfur_Running_Spritesheet_4: -7773231663845835913
+      Alfur_Running_Spritesheet_40: -1259957930241475159
+      Alfur_Running_Spritesheet_41: -1976244147769523651
+      Alfur_Running_Spritesheet_42: -7507966276711599039
+      Alfur_Running_Spritesheet_43: -3811541708547515858
+      Alfur_Running_Spritesheet_44: 8299325327039983043
+      Alfur_Running_Spritesheet_45: 3436577943640165862
+      Alfur_Running_Spritesheet_46: -5409773304277040598
+      Alfur_Running_Spritesheet_47: 8079036494809698879
+      Alfur_Running_Spritesheet_48: -2025472280263720463
+      Alfur_Running_Spritesheet_49: 7313581206720490968
+      Alfur_Running_Spritesheet_5: 6175628989556682158
+      Alfur_Running_Spritesheet_50: -719656390118868012
+      Alfur_Running_Spritesheet_51: 6532225245134689651
+      Alfur_Running_Spritesheet_52: -5769099273011040323
+      Alfur_Running_Spritesheet_53: -803937843052318740
+      Alfur_Running_Spritesheet_54: 3465758220243616538
+      Alfur_Running_Spritesheet_55: 4688745060266901244
+      Alfur_Running_Spritesheet_56: 7506405274066727493
+      Alfur_Running_Spritesheet_57: 2588210330579053392
+      Alfur_Running_Spritesheet_58: -3982339260477961371
+      Alfur_Running_Spritesheet_59: -5503244074487832365
+      Alfur_Running_Spritesheet_6: -1395455980833776060
+      Alfur_Running_Spritesheet_60: -1582160549648593651
+      Alfur_Running_Spritesheet_61: 4480112437413387592
+      Alfur_Running_Spritesheet_62: -869390608406949205
+      Alfur_Running_Spritesheet_63: 5685142572454745395
+      Alfur_Running_Spritesheet_64: 2218023619630542245
+      Alfur_Running_Spritesheet_65: -3499167160402094459
+      Alfur_Running_Spritesheet_66: 88746297045557558
+      Alfur_Running_Spritesheet_67: -4554750901054922717
+      Alfur_Running_Spritesheet_68: 2326784913004822097
+      Alfur_Running_Spritesheet_69: -6020070363194931598
+      Alfur_Running_Spritesheet_7: -7082918063822734946
+      Alfur_Running_Spritesheet_70: 8012591279551116262
+      Alfur_Running_Spritesheet_71: -8362350271164462962
+      Alfur_Running_Spritesheet_72: -2433684775788156585
+      Alfur_Running_Spritesheet_73: 6906418170999801954
+      Alfur_Running_Spritesheet_8: -2133341600096491279
+      Alfur_Running_Spritesheet_9: 5372023573944783834
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
