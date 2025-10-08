@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-public interface InteractAction
+public interface InteractAction 
 {
     bool PerformAction(object obj, object interactingActor);
 }
@@ -34,7 +34,7 @@ public class MushroomAction : InteractAction
             interactableObj.gameObject.SetActive(false);
             // interact with player here
             var playerState = interactorPlayer.GetComponent<PlayerState>();
-            playerState.IncreaseMushroomCount();
+            playerState.IncreaseMushroomCount(shroomie);
             return true;
         }
         return false;

@@ -1,10 +1,11 @@
+using SerializeReferenceEditor;
 using UnityEngine;
 
 public class Interactable : MonoBehaviour, IInteractable
 {
     [SerializeField] private InteractionType _interactionType;
 
-    private InteractAction _action = new PickupAction();
+    [SerializeReference, SR] private InteractAction _action;
     
     private object _interactingActor;
     
