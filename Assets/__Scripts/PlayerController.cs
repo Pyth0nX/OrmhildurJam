@@ -7,11 +7,13 @@ public class PlayerController : MonoBehaviour
     [SerializeField]
     private float speed = 5f;
     
+    [SerializeField] private PlayerState _owningPlayer;
+    
+    private AnimationController _animController;
     private Rigidbody2D _rb;
     private Vector2 _movementVector;
-    [SerializeField] private Vector2 _inputVector;
-    [SerializeField] private Animator _animator;
-    [SerializeField] private PlayerState _owningPlayer;
+    private Vector2 _inputVector;
+    private float _sprintBonus;
     
     // interacting
     private IInteractable _interactable;
@@ -20,17 +22,12 @@ public class PlayerController : MonoBehaviour
     {
         _rb = GetComponent<Rigidbody2D>();
         _owningPlayer = GetComponent<PlayerState>();
-        _animator = GetComponentInChildren<Animator>();
-    }
-
-    private void Update()
-    {
-        //_movementVector = _inputVector * (speed * Time.deltaTime);
+        _animController = GetComponent<AnimationController>();
     }
 
     private void FixedUpdate()
     {
-        _rb.linearVelocity = _inputVector * speed;
+        _rb.linearVelocity = _movementVector * speed;
     }
 
     private void OnTriggerEnter2D(Collider2D other)
@@ -50,16 +47,20 @@ public class PlayerController : MonoBehaviour
 
     private void OnTriggerExit2D(Collider2D other)
     {
-        // reset interactable
         _interactable = null;
     }
 
     public void Move(InputAction.CallbackContext input)
     {
         _inputVector = input.ReadValue<Vector2>();
-        Debug.Log($"Moving with {_inputVector}");
-        _animator.SetFloat("HorizontalInput", _inputVector.x);
-        _animator.SetFloat("VerticalInput", _inputVector.y);
+        UpdateMovementVector();
+    }
+    
+    public void Run(InputAction.CallbackContext input)
+    {
+        if (input.started) _sprintBonus = 2f;
+        else if (input.canceled) _sprintBonus = 1f;
+        UpdateMovementVector();
     }
 
     public void Interact(InputAction.CallbackContext input)
@@ -78,5 +79,11 @@ public class PlayerController : MonoBehaviour
         {
             Debug.Log($"Player Jumped");
         }
+    }
+
+    private void UpdateMovementVector()
+    {
+        _movementVector = _inputVector * _sprintBonus;
+        _animController.Input(_movementVector);
     }
 }
