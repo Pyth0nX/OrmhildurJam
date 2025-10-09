@@ -1,3 +1,4 @@
+using System;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -9,6 +10,11 @@ public class LoadScene : MonoBehaviour
     public void GoToScene()
     {
         SceneManager.LoadScene(ConvertScenePathToName(sceneToLoadPath));
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        GoToScene();
     }
 
     private string ConvertScenePathToName(string sceneToLoadPath)

@@ -3318,15 +3318,17 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d6b2ff6558d6ab94e8213034a7c48cab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sceneDialogue:
+    rid: -2
   activeDialogue: 0
-  playerSprite: {fileID: -7042520390669989383, guid: ac3f93e29e5150f448432afc62ec3468, type: 3}
-  otherSprite: {fileID: 21300000, guid: 718ea187289bae94f84035e4cf04f615, type: 3}
-  nameText: {fileID: 0}
-  dialogueText: {fileID: 0}
-  dialogueSprite: {fileID: 0}
   dialogueHUD: {fileID: 0}
   playerDialogue: {fileID: 0}
   otherDialogue: {fileID: 0}
+  references:
+    version: 2
+    RefIds:
+    - rid: -2
+      type: {class: , ns: , asm: }
 --- !u!4 &536292325
 Transform:
   m_ObjectHideFlags: 0
@@ -9070,7 +9072,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2773545608649998099, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
       propertyPath: m_Name
-      value: Interactable
+      value: Slug
       objectReference: {fileID: 0}
     - target: {fileID: 3843442051101425867, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
       propertyPath: m_LocalScale.x
@@ -9126,7 +9128,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5795098363323071416, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
       propertyPath: _action
-      value: 5509776100568596732
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 5795098363323071416, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
       propertyPath: 'managedReferences[-2]'
@@ -9135,6 +9137,30 @@ PrefabInstance:
     - target: {fileID: 5795098363323071416, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
       propertyPath: 'managedReferences[5509776100568596732]'
       value: Assembly-CSharp SlugAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795098363323071416, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: 'managedReferences[5509776124695543878]'
+      value: Assembly-CSharp CollectionAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795098363323071416, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: 'managedReferences[5509776124695543879]'
+      value: Assembly-CSharp CollectorAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795098363323071416, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: managedReferences[5509776124695543878].amount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795098363323071416, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: managedReferences[5509776124695543878].intType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795098363323071416, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: managedReferences[5509776124695543879].collectType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5795098363323071416, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: managedReferences[5509776124695543879].requestedAmount
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8698163139931404239, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
       propertyPath: m_Size.x
