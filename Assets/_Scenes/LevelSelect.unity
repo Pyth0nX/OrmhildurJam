@@ -145,6 +145,10 @@ PrefabInstance:
       propertyPath: m_fontSizeBase
       value: 24
       objectReference: {fileID: 0}
+    - target: {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      propertyPath: levelName
+      value: Desert
+      objectReference: {fileID: 0}
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -463,6 +467,10 @@ PrefabInstance:
       propertyPath: m_fontSizeBase
       value: 24
       objectReference: {fileID: 0}
+    - target: {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      propertyPath: levelName
+      value: Town
+      objectReference: {fileID: 0}
     - target: {fileID: 4533403230600201034, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_Color.a
       value: 1
@@ -718,6 +726,10 @@ PrefabInstance:
       propertyPath: m_fontSizeBase
       value: 24
       objectReference: {fileID: 0}
+    - target: {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      propertyPath: levelName
+      value: Forest
+      objectReference: {fileID: 0}
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -952,6 +964,10 @@ PrefabInstance:
     - target: {fileID: 406793816380426956, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_fontSizeBase
       value: 24
+      objectReference: {fileID: 0}
+    - target: {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      propertyPath: levelName
+      value: Cave
       objectReference: {fileID: 0}
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
