@@ -81,18 +81,22 @@ public class DialogueHandler : MonoBehaviour
 
     private void NextDialogue()
     {
-        if (dialogueComplete && !getInvalidDialogue) ToggleDialogueHUD();
-        
+        if (dialogueComplete && !getInvalidDialogue)
+        {
+            ToggleDialogueHUD();
+            return;
+        }
+
         if (dialogueIndex >= _dialogue.Length)
         {
-            OnDialogueComplete?.Invoke();
             dialogueComplete = true;
+            OnDialogueComplete?.Invoke();
+            ToggleDialogueHUD();
             return;
         }
         
         if (dialogueIndex >= _dialogue.Length) return;
         
-        Debug.Log("NextDialogue");
         var activeDialogueEntry = _dialogue[dialogueIndex];
         bool isPlayer = _dialogue[dialogueIndex].isPlayer;
         playerDialogue.SetActive(isPlayer);
