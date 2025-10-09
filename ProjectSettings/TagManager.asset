@@ -6,6 +6,8 @@ TagManager:
   tags:
   - tagToDisappear
   - Seagull
+  - Artefact
+  - E_Gudur
   layers:
   - Default
   - TransparentFX
