@@ -4,8 +4,8 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 public class LoadScene : MonoBehaviour
 {
-    [SerializeField]
-    string sceneToLoadPath;
+    [SerializeField] private string sceneToLoadPath;
+    [SerializeField] private string levelName;
 
     public void GoToScene()
     {
@@ -14,6 +14,8 @@ public class LoadScene : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
+        if (!other.CompareTag("Player")) return;
+        PlayerPrefs.SetInt(levelName, 1);
         GoToScene();
     }
 

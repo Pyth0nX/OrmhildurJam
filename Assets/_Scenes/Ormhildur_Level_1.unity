@@ -3631,6 +3631,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoadPath: Assets/_Scenes/LevelSelect.unity
+  levelName: Forest
 --- !u!4 &767347985
 Transform:
   m_ObjectHideFlags: 0
