@@ -2992,6 +2992,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoadPath: Assets/_Scenes/LevelSelect.unity
+  levelName: Town
 --- !u!1 &1798968318
 GameObject:
   m_ObjectHideFlags: 0

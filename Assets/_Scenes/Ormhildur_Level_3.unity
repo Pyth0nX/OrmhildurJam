@@ -149,6 +149,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sceneToLoadPath: Assets/_Scenes/LevelSelect.unity
+  levelName: Desert
 --- !u!4 &64952584
 Transform:
   m_ObjectHideFlags: 0
