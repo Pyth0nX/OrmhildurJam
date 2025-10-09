@@ -21,7 +21,7 @@ public class PickupAction : InteractAction
 }
 
 [Serializable]
-public enum IntegerPuzzleTypes { Mushroom, Slug }
+public enum IntegerPuzzleTypes { Mushroom, Slug, Desert }
 
 [Serializable]
 public class CollectionAction : InteractAction

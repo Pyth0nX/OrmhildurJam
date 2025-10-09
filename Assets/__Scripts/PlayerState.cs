@@ -8,6 +8,12 @@ public class PlayerState : MonoBehaviour
     
     public void IncreaseInteger(int incomingAmount, IntegerPuzzleTypes puzzleType)
     {
+        if (!integers.ContainsKey(puzzleType))
+        {
+            integers.Add(puzzleType, incomingAmount);
+            return;
+        }
+        
         integers[puzzleType] += incomingAmount;
         Debug.Log("Picked up " + incomingAmount + " mushrooms");
     }
