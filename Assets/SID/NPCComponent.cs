@@ -1,8 +1,19 @@
+using System;
 using UnityEngine;
 
 public class NPCComponent : MonoBehaviour
 {
     [SerializeField] private DialogueHandler dialogueHandler;
+
+    private void OnEnable()
+    {
+        dialogueHandler.OnDialogueComplete += Implemented_OnDialogueComplete;
+    }
+
+    private void OnDisable()
+    {
+        dialogueHandler.OnDialogueComplete -= Implemented_OnDialogueComplete;
+    }
 
     private void OnTriggerEnter2D(Collider2D other)
     {
@@ -20,5 +31,10 @@ public class NPCComponent : MonoBehaviour
         {
             if (dialogueHandler.IsDialogueActive) dialogueHandler.AttemptEnterDialogue();
         }
+    }
+
+    private void Implemented_OnDialogueComplete()
+    {
+        GameManager.Instance.CompleteLevel();
     }
 }
