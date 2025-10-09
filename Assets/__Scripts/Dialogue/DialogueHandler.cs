@@ -1,4 +1,5 @@
 using System;
+using System.Linq;
 using SerializeReferenceEditor;
 using TMPro;
 using UnityEngine;
@@ -11,7 +12,10 @@ public class DialogueHandler : MonoBehaviour
     [Header("Dialogue")]
     [SerializeReference, SR] private IDialogueEntry sceneDialogue;
 
-    [SerializeField] private bool activeDialogue;
+    [SerializeField] private bool activeDialogue = false;
+    public bool IsDialogueActive => activeDialogue;
+    [SerializeField] private bool getInvalidDialogue = false;
+    [SerializeField] private string invalidDialogueLine;
 
     [Header("UI Elements")]
     [SerializeField] private GameObject dialogueHUD;
@@ -24,21 +28,14 @@ public class DialogueHandler : MonoBehaviour
     
     private DialogueEntry[] _dialogue;
     
-    private int dialogueIndex;
-    private bool dialogueComplete;
+    private int dialogueIndex = 0;
+    private bool dialogueComplete = false;
 
     private void Start()
     {
         _dialogue = sceneDialogue.GetDialogueEntry();
     }
-
-    public void ActivateDialogue()
-    {
-        activeDialogue = !activeDialogue;
-        dialogueHUD.SetActive(activeDialogue);
-        if (!dialogueComplete) NextDialogue();
-    }
-
+    
     private void Update()
     {
         if (!activeDialogue) return;
@@ -49,9 +46,51 @@ public class DialogueHandler : MonoBehaviour
         }
     }
 
+    public void AttemptEnterDialogue()
+    {
+        if (dialogueComplete && !getInvalidDialogue) return;
+        
+        ToggleDialogueHUD();
+        
+        if (getInvalidDialogue)
+        {
+            playerDialogue.SetActive(false);
+            otherDialogue.SetActive(true);
+            nameText = otherDialogue.transform.GetChild(0).GetComponent<TextMeshProUGUI>();
+            dialogueText = otherDialogue.transform.GetChild(1).GetComponent<TextMeshProUGUI>();
+
+            nameText.text = _dialogue.First(de => !de.isPlayer).name;
+            dialogueText.text = invalidDialogueLine;
+            
+            dialogueIndex = _dialogue.Length;
+            return;
+        }
+
+        if (!dialogueComplete)
+        {
+            dialogueIndex = 0;
+            NextDialogue();
+        }
+    }
+
+    public void ToggleDialogueHUD()
+    {
+        activeDialogue = !activeDialogue;
+        dialogueHUD.SetActive(activeDialogue);
+    }
+
     private void NextDialogue()
     {
-        if (dialogueComplete) ActivateDialogue();
+        if (dialogueComplete && !getInvalidDialogue) ToggleDialogueHUD();
+        
+        if (dialogueIndex >= _dialogue.Length)
+        {
+            OnDialogueComplete?.Invoke();
+            dialogueComplete = true;
+            return;
+        }
+        
+        if (dialogueIndex >= _dialogue.Length) return;
         
         Debug.Log("NextDialogue");
         var activeDialogueEntry = _dialogue[dialogueIndex];
@@ -69,11 +108,5 @@ public class DialogueHandler : MonoBehaviour
         //dialogueSprite.sprite = activeDialogueEntry.sprite;
 
         dialogueIndex++;
-
-        if (dialogueIndex >= _dialogue.Length)
-        {
-            OnDialogueComplete?.Invoke();
-            dialogueComplete = true;
-        }
     }
 }

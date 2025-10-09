@@ -10,13 +10,13 @@ public struct ForestDialogue : IDialogueEntry
         new DialogueEntry
         {
             name = "Ormhildur",
-            line = "Gudur, what happened to you?!",
+            line = "Gudrun, what happened to you?!",
             isPlayer = true,
         },
         new DialogueEntry
         {
-            name = "Gudur", 
-            line = "I am Evil the spirit that controls Gudur",
+            name = "Gudrun", 
+            line = "I am Evil the spirit that controls Gudrun",
             isPlayer = false, 
             sprite = otherSprite
         },
@@ -30,7 +30,7 @@ public struct ForestDialogue : IDialogueEntry
         },
         new DialogueEntry
         {
-            name = "Gurd", 
+            name = "Gudrun", 
             line = "Only an rare artefact can cleanse me! And you will never get it!!! MUAHAHAHAHAH!",
             isPlayer = false,
             sprite = otherSprite
@@ -38,7 +38,7 @@ public struct ForestDialogue : IDialogueEntry
         new DialogueEntry
         {
             name = "Ormhildur", 
-            line = "Don't worry, I will save you Gudur!", 
+            line = "Don't worry, I will save you Gudrun!", 
             isPlayer = true, 
             sprite = playerSprite
         }

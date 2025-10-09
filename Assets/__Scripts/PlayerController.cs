@@ -34,14 +34,16 @@ public class PlayerController : MonoBehaviour
     {
         var interactedObject = other.gameObject;
         if (interactedObject == null) return;
-        
-        interactedObject.TryGetComponent<IInteractable>(out _interactable);
-        
-        if (_interactable.InteractionType == InteractionType.Passive)
+
+        if (interactedObject.TryGetComponent<IInteractable>(out _interactable))
         {
-            _interactable.Interact(_owningPlayer);
-            _interactable = null;
+            if (_interactable.InteractionType == InteractionType.Passive)
+            {
+                _interactable.Interact(_owningPlayer);
+                _interactable = null;
+            }
         }
+        
         Debug.Log($"Found interactable: {interactedObject}");
     }
 
