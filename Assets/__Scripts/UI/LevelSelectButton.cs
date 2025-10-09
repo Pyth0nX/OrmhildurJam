@@ -25,7 +25,7 @@ public class LevelSelectButton : MonoBehaviour
     {
         var levelName = levelSelector.LevelName;
         PlayerPrefs.GetInt(levelName, 0);
-        if (PlayerPrefs.GetInt(levelName, 0) != 1) return;
+        if (PlayerPrefs.GetInt(levelName, 0) == 1) return;
         levelSelector.GoToScene();
     }
 }

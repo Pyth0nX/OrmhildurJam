@@ -152,7 +152,7 @@ PrefabInstance:
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 73698840}
+      objectReference: {fileID: 0}
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: GoToScene
@@ -169,6 +169,10 @@ PrefabInstance:
       propertyPath: levelName
       value: Desert
       objectReference: {fileID: 0}
+    - target: {fileID: 7071863818231898028, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      propertyPath: levelSelector
+      value: 
+      objectReference: {fileID: 1142573047}
     - target: {fileID: 8056150827367427721, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -253,27 +257,20 @@ PrefabInstance:
       propertyPath: m_Name
       value: Level3
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8265917962960631938, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1142573047}
   m_SourcePrefab: {fileID: 100100000, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
 --- !u!224 &73698839 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8056150827367427721, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
   m_PrefabInstance: {fileID: 73698838}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &73698840 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
-  m_PrefabInstance: {fileID: 73698838}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: db9f5c8ae633cd749b0ae56a7a07ff7d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &178765480
 GameObject:
   m_ObjectHideFlags: 0
@@ -478,7 +475,7 @@ PrefabInstance:
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 570618239}
+      objectReference: {fileID: 0}
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: GoToScene
@@ -495,6 +492,10 @@ PrefabInstance:
       propertyPath: levelName
       value: Town
       objectReference: {fileID: 0}
+    - target: {fileID: 7071863818231898028, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      propertyPath: levelSelector
+      value: 
+      objectReference: {fileID: 1590064348}
     - target: {fileID: 8056150827367427721, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -579,27 +580,25 @@ PrefabInstance:
       propertyPath: m_Name
       value: Level4
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8265917962960631938, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1590064348}
   m_SourcePrefab: {fileID: 100100000, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
 --- !u!224 &570618238 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8056150827367427721, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
   m_PrefabInstance: {fileID: 570618237}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &570618239 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
-  m_PrefabInstance: {fileID: 570618237}
+--- !u!1 &635117065 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8265917962960631938, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+  m_PrefabInstance: {fileID: 6827654838704803291}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: db9f5c8ae633cd749b0ae56a7a07ff7d, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &741384363
 GameObject:
   m_ObjectHideFlags: 0
@@ -733,7 +732,7 @@ PrefabInstance:
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 839931449}
+      objectReference: {fileID: 0}
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: GoToScene
@@ -750,6 +749,10 @@ PrefabInstance:
       propertyPath: levelName
       value: Forest
       objectReference: {fileID: 0}
+    - target: {fileID: 7071863818231898028, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      propertyPath: levelSelector
+      value: 
+      objectReference: {fileID: 1854457896}
     - target: {fileID: 8056150827367427721, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -834,32 +837,82 @@ PrefabInstance:
       propertyPath: m_Name
       value: Level1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8265917962960631938, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1854457896}
   m_SourcePrefab: {fileID: 100100000, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
 --- !u!224 &839931448 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8056150827367427721, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
   m_PrefabInstance: {fileID: 839931447}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &839931449 stripped
-MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
-  m_PrefabInstance: {fileID: 839931447}
+--- !u!1 &1142573042 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8265917962960631938, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+  m_PrefabInstance: {fileID: 73698838}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+--- !u!114 &1142573047
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1142573042}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: db9f5c8ae633cd749b0ae56a7a07ff7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sceneToLoadPath: Assets/_Scenes/Ormhildur_Level_3.unity
+  levelName: Desert
+--- !u!1 &1590064343 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8265917962960631938, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+  m_PrefabInstance: {fileID: 570618237}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1590064348
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1590064343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db9f5c8ae633cd749b0ae56a7a07ff7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneToLoadPath: Assets/_Scenes/Ormhildur_Level_4.unity
+  levelName: Town
 --- !u!224 &1732216270 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8056150827367427721, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
   m_PrefabInstance: {fileID: 6827654838704803291}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1854457891 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8265917962960631938, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+  m_PrefabInstance: {fileID: 839931447}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1854457896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1854457891}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db9f5c8ae633cd749b0ae56a7a07ff7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneToLoadPath: Assets/_Scenes/Ormhildur_Level_1.unity
+  levelName: Forest
 --- !u!1 &2002993856
 GameObject:
   m_ObjectHideFlags: 0
@@ -972,7 +1025,7 @@ PrefabInstance:
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
-      objectReference: {fileID: 6827654838704803292}
+      objectReference: {fileID: 0}
     - target: {fileID: 6923271980134854614, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
       value: GoToScene
@@ -989,6 +1042,10 @@ PrefabInstance:
       propertyPath: levelName
       value: Cave
       objectReference: {fileID: 0}
+    - target: {fileID: 7071863818231898028, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      propertyPath: levelSelector
+      value: 
+      objectReference: {fileID: 6827654838704803297}
     - target: {fileID: 8056150827367427721, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5
@@ -1073,22 +1130,29 @@ PrefabInstance:
       propertyPath: m_Name
       value: Level2
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
+    m_RemovedComponents:
+    - {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 8265917962960631938, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6827654838704803297}
   m_SourcePrefab: {fileID: 100100000, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
---- !u!114 &6827654838704803292 stripped
+--- !u!114 &6827654838704803297
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 2509560143387753060, guid: 586aad1a5bef8f643a0f55abdbfce451, type: 3}
-  m_PrefabInstance: {fileID: 6827654838704803291}
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
+  m_GameObject: {fileID: 635117065}
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: db9f5c8ae633cd749b0ae56a7a07ff7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  sceneToLoadPath: Assets/_Scenes/Ormhildur_Level_2.unity
+  levelName: Cave
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

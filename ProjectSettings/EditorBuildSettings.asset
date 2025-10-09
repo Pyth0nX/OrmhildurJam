@@ -6,12 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-<<<<<<< Updated upstream
-    path: Assets/_Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
-  - enabled: 1
-=======
->>>>>>> Stashed changes
     path: Assets/_Scenes/LevelSelect.unity
     guid: 8e49a65e83d8e364680ab5310b9dcf03
   - enabled: 1
@@ -21,19 +15,11 @@ EditorBuildSettings:
     path: Assets/_Scenes/Ormhildur_Level_2.unity
     guid: 5b1bd5afb51720d4cb7c4fba50abbc6f
   - enabled: 1
-<<<<<<< Updated upstream
-    path: Assets/_Scenes/Ormhildur_Level_4.unity
-    guid: 99c9720ab356a0642a771bea13969a05
-  - enabled: 1
-    path: Assets/_Scenes/Ormhildur_Level_3.unity
-    guid: 09ce824624e0397408fdccb320e4492a
-=======
     path: Assets/_Scenes/Ormhildur_Level_3.unity
     guid: 09ce824624e0397408fdccb320e4492a
   - enabled: 1
     path: Assets/_Scenes/Ormhildur_Level_4.unity
     guid: 99c9720ab356a0642a771bea13969a05
->>>>>>> Stashed changes
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
