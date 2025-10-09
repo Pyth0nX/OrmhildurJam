@@ -24,8 +24,15 @@ public class LevelSelectButton : MonoBehaviour
     private void AttemptSelectLevel()
     {
         var levelName = levelSelector.LevelName;
-        PlayerPrefs.GetInt(levelName, 0);
-        if (PlayerPrefs.GetInt(levelName, 0) == 1) return;
+        var hasLevelBeenCompleted = PlayerPrefs.GetInt(levelName, 0) == 1;
+        
+        Debug.Log($"[AttempSelectLevel] attempting to select level for {levelName} it is {hasLevelBeenCompleted} completed based on {PlayerPrefs.GetInt(levelName, 0)}");
+        if (hasLevelBeenCompleted)
+        {
+            Debug.Log($"[AttempSelectLevel] level {levelName} has been completed");
+            return;
+        }
+        
         levelSelector.GoToScene();
     }
 }

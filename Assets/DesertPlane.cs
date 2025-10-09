@@ -1,6 +1,4 @@
-using System.Collections;
 using UnityEngine;
-using UnityEngine.U2D;
 
 public class DesertPlane : MonoBehaviour, IInteractable
 {
@@ -27,10 +25,10 @@ public class DesertPlane : MonoBehaviour, IInteractable
 
         transform.position = Vector3.MoveTowards(transform.position, targetPos.position, Time.deltaTime * planeSpeed);
 
-        GameManager.Instance.CompleteLevel();
+        GameManager.Instance.CompleteLevel(scene.LevelName);
         if (Vector3.Distance(transform.position, targetPos.position) < 0.1f)
         {
-            scene.GetComponent<LoadScene>().GoToScene();
+            scene.GetComponent<LoadScene>().CompleteScene();
         }
     }
 

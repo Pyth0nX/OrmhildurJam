@@ -27,4 +27,9 @@ public class GameManager : MonoBehaviour
     {
         hasCompletedLevel = true;
     }
+    
+    public void CompleteLevel(string levelName)
+    {
+        hasCompletedLevel = true;
+    }
 }

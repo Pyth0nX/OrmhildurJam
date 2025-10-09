@@ -1,7 +1,7 @@
-using System;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+
 public class LoadScene : MonoBehaviour
 {
     [SerializeField] private string sceneToLoadPath;
@@ -16,7 +16,16 @@ public class LoadScene : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (!other.CompareTag("Player")) return;
-        if (GameManager.Instance.CompletedLevel) PlayerPrefs.SetInt(levelName, 1);
+        CompleteScene();
+    }
+
+    public void CompleteScene()
+    {
+        if (GameManager.Instance.CompletedLevel)
+        {
+            PlayerPrefs.SetInt(levelName, 1);
+            Debug.Log($"[OnTriggerEnter2D for LoadScene {gameObject}] level {levelName} has been {PlayerPrefs.GetInt(levelName, 1)} completed");
+        }
         GoToScene();
     }
 
