@@ -1,7 +1,7 @@
-using System;
 using UnityEngine;
+using UnityEngine.EventSystems;
 
-public class PuzzlePiece : MonoBehaviour, IInteractable
+public class PuzzlePiece : MonoBehaviour, IInteractable, IPointerDownHandler, IPointerUpHandler
 {
     [SerializeField] private int puzzleIndex;
     public int PuzzleIndex => puzzleIndex;
@@ -42,14 +42,19 @@ public class PuzzlePiece : MonoBehaviour, IInteractable
     }
 
     public InteractionType InteractionType => InteractionType.Clicked;
-
-    private void OnMouseDown()
+    
+    public void OnPointerDown(PointerEventData eventData)
     {
-        if (InteractionType != InteractionType.Clicked) return;
+        Debug.Log("[PuzzlePiece] OnMouseDown");
+        if (InteractionType != InteractionType.Clicked)
+        {
+            Debug.Log("[PuzzlePiece] interactiontype is wrong");
+            return;
+        }
         Interact(GameManager.Instance.player);
     }
 
-    private void OnMouseUp()
+    public void OnPointerUp(PointerEventData eventData)
     {
         isDragging = false;
         
