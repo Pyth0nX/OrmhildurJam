@@ -6,6 +6,7 @@ public class LoadScene : MonoBehaviour
 {
     [SerializeField] private string sceneToLoadPath;
     [SerializeField] private string levelName;
+    public string LevelName => levelName;
 
     public void GoToScene()
     {
@@ -15,7 +16,7 @@ public class LoadScene : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D other)
     {
         if (!other.CompareTag("Player")) return;
-        PlayerPrefs.SetInt(levelName, 1);
+        if (GameManager.Instance.CompletedLevel) PlayerPrefs.SetInt(levelName, 1);
         GoToScene();
     }
 
