@@ -52,5 +52,20 @@ public struct CaveDialogue : IDialogueEntry
             line = "I'm on it!",
             isPlayer = true,
         },
+        
+        new DialogueEntry()
+    };
+}
+public struct CaveFinishedDialogue : IDialogueEntry
+{
+    public DialogueEntry[] GetDialogueEntry() => new DialogueEntry[]
+    {
+        new DialogueEntry
+        {
+            name = "Slug",
+            line = "Hello human, could you do me a favour?",
+            isPlayer = false,
+        },
+
     };
 }

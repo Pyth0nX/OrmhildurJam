@@ -145,3 +145,32 @@ public class Sp : InteractAction
         return false;
     }
 }
+
+[Serializable]
+public class DialogueAction : InteractAction
+{
+        [SerializeField] protected DialogueHandler dialogueHandler;
+    public bool PerformAction(Interactable interactable, PlayerState interactingPlayer)
+    {
+        if (dialogueHandler == null) return false;
+        dialogueHandler.AttemptEnterDialogue();
+        return true;
+    }
+}
+
+[Serializable]
+public class SlugQuestAction : DialogueAction
+{
+    private IDialogueEntry[] _dialogueEntries = new IDialogueEntry[]
+    {
+        new CaveDialogue(),
+        new CaveFinishedDialogue()
+    };
+
+    public bool PerformAction(Interactable interactable, PlayerState interactingPlayer)
+    {
+        if (dialogueHandler == null) return false;
+        dialogueHandler.AttemptEnterDialogue();
+        return true;
+    }
+}
