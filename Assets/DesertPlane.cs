@@ -27,6 +27,7 @@ public class DesertPlane : MonoBehaviour, IInteractable
 
         transform.position = Vector3.MoveTowards(transform.position, targetPos.position, Time.deltaTime * planeSpeed);
 
+        GameManager.Instance.CompleteLevel();
         if (Vector3.Distance(transform.position, targetPos.position) < 0.1f)
         {
             scene.GetComponent<LoadScene>().GoToScene();

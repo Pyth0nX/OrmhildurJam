@@ -31,6 +31,7 @@ public class TownSeagull : MonoBehaviour
             disappearCount++;
             UpdateCountText();
             Destroy(gameObject);
+            TryDisapearKitty();
         }
     }
 
@@ -42,17 +43,17 @@ public class TownSeagull : MonoBehaviour
         }
     }
 
-    // if touched all seagulls, remove kitten with tag "tagToDisappear"
-    void Update()
+    private void TryDisapearKitty()
     {
         if (disappearCount >= SeagullCount)
         {
+            Debug.Log("All seagulls chased away! Kitten is safe.");
             GameObject kitten = GameObject.FindGameObjectWithTag(blockedKitten);
             if (kitten != null)
             {
                 Destroy(kitten);
             }
+            GameManager.Instance.CompleteLevel();
         }
     }
-
 }
