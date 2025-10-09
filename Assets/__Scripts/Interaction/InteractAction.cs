@@ -149,8 +149,7 @@ public class Sp : InteractAction
 [Serializable]
 public class DialogueAction : InteractAction
 {
-    [SerializeField] protected DialogueHandler dialogueHandler;
-    
+        [SerializeField] protected DialogueHandler dialogueHandler;
     public bool PerformAction(Interactable interactable, PlayerState interactingPlayer)
     {
         if (dialogueHandler == null) return false;
@@ -162,9 +161,6 @@ public class DialogueAction : InteractAction
 [Serializable]
 public class SlugQuestAction : DialogueAction
 {
-    [SerializeField] private int requestedAmount;
-    private bool completedQuest = false;
-    
     private IDialogueEntry[] _dialogueEntries = new IDialogueEntry[]
     {
         new CaveDialogue(),
@@ -176,10 +172,5 @@ public class SlugQuestAction : DialogueAction
         if (dialogueHandler == null) return false;
         dialogueHandler.AttemptEnterDialogue();
         return true;
-    }
-
-    private void SubscribeToQuestCompletions()
-    {
-        
     }
 }
