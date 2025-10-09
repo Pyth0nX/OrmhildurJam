@@ -33,11 +33,11 @@ public class DialogueHandler : MonoBehaviour
 
     private void Start()
     {
-        dialogue = new DialogueEntry[] { new DialogueEntry { name = "player", isPlayer = true, line = "ABABABA is cool", sprite = playerSprite },
-        new DialogueEntry { name = "other", isPlayer = false, line = "ABABABA is not cool", sprite = otherSprite },
-        new DialogueEntry { name = "player", isPlayer = true, line = "ABABABA is so cool", sprite = playerSprite },
-        new DialogueEntry { name = "other", isPlayer = false, line = "ABABABA is so not cool", sprite = otherSprite },
-        new DialogueEntry { name = "player", isPlayer = true, line = "ABABABA is darn cool", sprite = playerSprite }
+        dialogue = new DialogueEntry[] { new DialogueEntry { name = "Ormhildur", isPlayer = true, line = "Gudur, what happened to you?!", sprite = playerSprite },
+        new DialogueEntry { name = "Gudur", isPlayer = false, line = "I am Evil the spirit that controls Gudur", sprite = otherSprite },
+        new DialogueEntry { name = "Ormhildur", isPlayer = true, line = "Oh no! What can I do to save you?", sprite = playerSprite },
+        new DialogueEntry { name = "Gurd", isPlayer = false, line = "Only an rare artefact can cleanse me! And you will never get it!!! MUAHAHAHAHAH!", sprite = otherSprite },
+        new DialogueEntry { name = "Ormhildur", isPlayer = true, line = "Don't worry, I will save you Gudur!", sprite = playerSprite }
         };
     }
 
