@@ -20,6 +20,11 @@ public class LoadScene : MonoBehaviour
         GoToScene();
     }
 
+    public void Quit()
+    {
+        Application.Quit();
+    }
+
     private string ConvertScenePathToName(string sceneToLoadPath)
     {
         int start = sceneToLoadPath.LastIndexOf("/") +1;
