@@ -1,10 +1,9 @@
-using System;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerState : MonoBehaviour
 {
-    [SerializeField] private Dictionary<IntegerPuzzleTypes, int> integers;
+    private Dictionary<IntegerPuzzleTypes, int> integers = new();
     
     public void IncreaseInteger(int incomingAmount, IntegerPuzzleTypes puzzleType)
     {

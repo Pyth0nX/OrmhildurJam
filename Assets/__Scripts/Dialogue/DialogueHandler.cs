@@ -1,51 +1,42 @@
+using System;
+using SerializeReferenceEditor;
 using TMPro;
 using UnityEngine;
 using UnityEngine.UI;
 
-[System.Serializable]
-public struct DialogueEntry
-{
-    public string line;
-    public string name;
-    public bool isPlayer;
-    public Sprite sprite;
-}
-
 public class DialogueHandler : MonoBehaviour
 {
-    private DialogueEntry[] dialogue;
+    public Action OnDialogueComplete;
+    
+    [Header("Dialogue")]
+    [SerializeReference, SR] private IDialogueEntry sceneDialogue;
 
     [SerializeField] private bool activeDialogue;
 
-    [SerializeField] private Sprite playerSprite;
-    [SerializeField] private Sprite otherSprite;
-
-    // dialogue
-    [SerializeField] private TextMeshProUGUI nameText;
-    [SerializeField] private TextMeshProUGUI dialogueText;
-    [SerializeField] private Image dialogueSprite;
-
+    [Header("UI Elements")]
     [SerializeField] private GameObject dialogueHUD;
     [SerializeField] private GameObject playerDialogue;
     [SerializeField] private GameObject otherDialogue;
-
+    
+    private TextMeshProUGUI nameText;
+    private TextMeshProUGUI dialogueText;
+    private Image dialogueSprite;
+    
+    private DialogueEntry[] _dialogue;
+    
     private int dialogueIndex;
+    private bool dialogueComplete;
 
     private void Start()
     {
-        dialogue = new DialogueEntry[] { new DialogueEntry { name = "Ormhildur", isPlayer = true, line = "Gudur, what happened to you?!", sprite = playerSprite },
-        new DialogueEntry { name = "Gudur", isPlayer = false, line = "I am Evil the spirit that controls Gudur", sprite = otherSprite },
-        new DialogueEntry { name = "Ormhildur", isPlayer = true, line = "Oh no! What can I do to save you?", sprite = playerSprite },
-        new DialogueEntry { name = "Gurd", isPlayer = false, line = "Only an rare artefact can cleanse me! And you will never get it!!! MUAHAHAHAHAH!", sprite = otherSprite },
-        new DialogueEntry { name = "Ormhildur", isPlayer = true, line = "Don't worry, I will save you Gudur!", sprite = playerSprite }
-        };
+        _dialogue = sceneDialogue.GetDialogueEntry();
     }
 
     public void ActivateDialogue()
     {
         activeDialogue = !activeDialogue;
         dialogueHUD.SetActive(activeDialogue);
-        NextDialogue();
+        if (!dialogueComplete) NextDialogue();
     }
 
     private void Update()
@@ -60,9 +51,11 @@ public class DialogueHandler : MonoBehaviour
 
     private void NextDialogue()
     {
+        if (dialogueComplete) ActivateDialogue();
+        
         Debug.Log("NextDialogue");
-        var activeDialogueEntry = dialogue[dialogueIndex];
-        bool isPlayer = dialogue[dialogueIndex].isPlayer;
+        var activeDialogueEntry = _dialogue[dialogueIndex];
+        bool isPlayer = _dialogue[dialogueIndex].isPlayer;
         playerDialogue.SetActive(isPlayer);
         otherDialogue.SetActive(!isPlayer);
 
@@ -76,5 +69,11 @@ public class DialogueHandler : MonoBehaviour
         //dialogueSprite.sprite = activeDialogueEntry.sprite;
 
         dialogueIndex++;
+
+        if (dialogueIndex >= _dialogue.Length)
+        {
+            OnDialogueComplete?.Invoke();
+            dialogueComplete = true;
+        }
     }
 }

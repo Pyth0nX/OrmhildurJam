@@ -44,15 +44,15 @@ public class DesertPuzzle : MonoBehaviour, IInteractable
     }
 
     public void Interact(PlayerState player)
-    {/*
+    {
+        if (player == null) return;
+        
         var sprite = gameObject.GetComponent<SpriteRenderer>();
         sprite.enabled = false;
-        text.SetActive(false);*/
-        //parts++;
-        if (player == null) return;
+        text.SetActive(false);
 
         player.IncreaseInteger(1, IntegerPuzzleTypes.Desert);
-        Debug.Log("parts: " + player.GetIntegerByType(IntegerPuzzleTypes.Desert)); //check if it work
-        //Debug.Log("pressed e"); //check if it work
+        var currentShrooms = player.GetIntegerByType(IntegerPuzzleTypes.Desert);
+        Debug.Log("parts: " + currentShrooms);
     }
 }
