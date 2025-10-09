@@ -1,58 +1,69 @@
 using UnityEngine;
 using TMPro;
 
-public class DesertPuzzle : MonoBehaviour, IInteractable
+public class DesertPuzzle : MonoBehaviour
 {
-    [SerializeField] private GameObject text;
     [SerializeField] private int parts;
     [SerializeField] private GameObject plane;
     [SerializeField] private Transform planePos;
+    [SerializeField] private Transform collectables;
 
-    public int partsNeeded => parts;
+    private DesertInteractable[] interactables;
 
-    public InteractionType InteractionType => InteractionType.Active;
+    public int partsNeeded = 1;
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void Awake()
     {
-        //Debug.Log(other.gameObject + " entered trigger of " + gameObject); //check if it work
-        if (other.CompareTag("Player"))
-        {
-            text.SetActive(true);
-            //Debug.Log("Car is in the zone"); //check if it work
+        partsNeeded = collectables.childCount;
+        interactables = new DesertInteractable[partsNeeded];
 
+        for (int i = 0; i < collectables.childCount; i++)
+        {
+            var interactable = collectables.GetChild(i).GetComponent<DesertInteractable>();
+            interactables[i] = interactable;
         }
     }
 
-    private void Start()
+    private void OnEnable()
     {
-        text.SetActive(false);
+        if (interactables == null) return;
+
+        foreach (var interactable in interactables)
+        {
+            if (interactable != null)
+            {
+                interactable.OnInteracted += Desert_OnInteractable;
+            }
+        }
+    }
+
+    private void OnDisable()
+    {
+        foreach (var interactable in interactables)
+        {
+            if (interactable != null)
+            {
+                interactable.OnInteracted -= Desert_OnInteractable;
+            }
+        }
     }
 
     private void Update()
-    {
-    }
-
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        text.SetActive(false);
-        //Debug.Log("Car is not in the zone"); //check if it work
-
-        if (partsNeeded == 5)
+    {/*
+        if (partsNeeded == parts)
         {
             plane.transform.position = planePos.position;
-        }
+        }*/
     }
 
-    public void Interact(PlayerState player)
+    public bool HasCompletedObjective()
     {
-        if (player == null) return;
-        
-        var sprite = gameObject.GetComponent<SpriteRenderer>();
-        sprite.enabled = false;
-        text.SetActive(false);
+        return partsNeeded == parts;
+    }
 
-        player.IncreaseInteger(1, IntegerPuzzleTypes.Desert);
-        var currentShrooms = player.GetIntegerByType(IntegerPuzzleTypes.Desert);
-        Debug.Log("parts: " + currentShrooms);
+    private void Desert_OnInteractable(int value, DesertInteractable interactedObj)
+    {
+        parts += value;
+        interactedObj.OnInteracted -= Desert_OnInteractable;
     }
 }
