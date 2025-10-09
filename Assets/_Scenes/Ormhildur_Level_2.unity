@@ -13602,6 +13602,50 @@ PrefabInstance:
       propertyPath: managedReferences[5509776124695543879].requestedAmount
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: _action
+      value: 5509776124695543902
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: _interactionType
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: 'managedReferences[5509776124695543900]'
+      value: Assembly-CSharp CollectorAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: 'managedReferences[5509776124695543901]'
+      value: Assembly-CSharp CollectionAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: 'managedReferences[5509776124695543902]'
+      value: Assembly-CSharp CollectorAction
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: managedReferences[5509776124695543901].amount
+      value: 46
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: managedReferences[5509776124695543901].intType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: managedReferences[5509776124695543900].collectType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: managedReferences[5509776124695543902].collectType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: managedReferences[5509776124695543900].requestedAmount
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8017979871268676605, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
+      propertyPath: managedReferences[5509776124695543902].requestedAmount
+      value: 43
+      objectReference: {fileID: 0}
     - target: {fileID: 8698163139931404239, guid: 2de97947d616ac7468dcc9b6ad0d15b8, type: 3}
       propertyPath: m_Size.x
       value: 19.200502
