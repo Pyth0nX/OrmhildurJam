@@ -21,7 +21,7 @@ public class LevelSelectButton : MonoBehaviour
         _button.onClick.RemoveListener(AttemptSelectLevel);
     }
 
-    private void AttemptSelectLevel()
+    public void AttemptSelectLevel()
     {
         var levelName = levelSelector.LevelName;
         var hasLevelBeenCompleted = PlayerPrefs.GetInt(levelName, 0) == 1;
